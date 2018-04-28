@@ -1,0 +1,4080 @@
+{
+  "best_match" : {
+    "items" : [ {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "copyrights" : [ {
+        "text" : "(P) 2015 Epic Records, a division of Sony Music Entertainment",
+        "type" : "P"
+      } ],
+      "external_ids" : {
+        "upc" : "886445353402"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0b2j47HuTRqlzvROQktVtg"
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/albums/0b2j47HuTRqlzvROQktVtg",
+      "id" : "0b2j47HuTRqlzvROQktVtg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d8ee9771a5d00a8158df122b781ddeab5ce966eb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3705f6209abc48502aa02ca568aa68925b0f8cec",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "label" : "Wondaland Records/Epic",
+      "name" : "Classic Man (Remix)",
+      "popularity" : 51,
+      "release_date" : "2015-06-22",
+      "release_date_precision" : "day",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/albums/0b2j47HuTRqlzvROQktVtg/tracks?offset=0&limit=50&market=from_token",
+        "items" : [ {
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+            "id" : "4TsHKU8l8Wq7n7OPVikirn",
+            "name" : "Jidenna",
+            "type" : "artist",
+            "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name" : "Kendrick Lamar",
+            "type" : "artist",
+            "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          } ],
+          "disc_number" : 1,
+          "duration_ms" : 235046,
+          "explicit" : true,
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/track/530J9GupahE2O4a1iVkQxB"
+          },
+          "href" : "https://api.spotify.com/v1/tracks/530J9GupahE2O4a1iVkQxB",
+          "id" : "530J9GupahE2O4a1iVkQxB",
+          "is_local" : false,
+          "is_playable" : true,
+          "name" : "Classic Man - Remix",
+          "preview_url" : "https://p.scdn.co/mp3-preview/4a0a09ae53e61bbd7e48439c5e4861dcb5e984f4?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+          "track_number" : 1,
+          "type" : "track",
+          "uri" : "spotify:track:530J9GupahE2O4a1iVkQxB"
+        } ],
+        "limit" : 50,
+        "next" : null,
+        "offset" : 0,
+        "previous" : null,
+        "total" : 1
+      },
+      "type" : "album",
+      "uri" : "spotify:album:0b2j47HuTRqlzvROQktVtg"
+    } ]
+  },
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/search?query=classic+man+remi*&type=album&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0b2j47HuTRqlzvROQktVtg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0b2j47HuTRqlzvROQktVtg",
+      "id" : "0b2j47HuTRqlzvROQktVtg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d8ee9771a5d00a8158df122b781ddeab5ce966eb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3705f6209abc48502aa02ca568aa68925b0f8cec",
+        "width" : 64
+      } ],
+      "name" : "Classic Man (Remix)",
+      "release_date" : "2015-06-22",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:0b2j47HuTRqlzvROQktVtg"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3JjVZ7NGlIOKFO1SdP78md"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3JjVZ7NGlIOKFO1SdP78md",
+      "id" : "3JjVZ7NGlIOKFO1SdP78md",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d8ee9771a5d00a8158df122b781ddeab5ce966eb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3705f6209abc48502aa02ca568aa68925b0f8cec",
+        "width" : 64
+      } ],
+      "name" : "Classic Man (Remix)",
+      "release_date" : "2015-06-17",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:3JjVZ7NGlIOKFO1SdP78md"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0spHbv2fw49lDMkbOAdaqX",
+        "id" : "0spHbv2fw49lDMkbOAdaqX",
+        "name" : "WWE",
+        "type" : "artist",
+        "uri" : "spotify:artist:0spHbv2fw49lDMkbOAdaqX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4aemlCxfmvFjJa8YKvaiJI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4aemlCxfmvFjJa8YKvaiJI",
+        "id" : "4aemlCxfmvFjJa8YKvaiJI",
+        "name" : "CFO$",
+        "type" : "artist",
+        "uri" : "spotify:artist:4aemlCxfmvFjJa8YKvaiJI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3JBjFfECLdAIg3Edytqnx9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3JBjFfECLdAIg3Edytqnx9",
+      "id" : "3JBjFfECLdAIg3Edytqnx9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/363ab1fdcfe5329d4a32afcb8c018b637112a821",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/790e63f90acdecd3f67ebe5d9ba6da9218b11aad",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f4d569d45f5e30f5b6d86942f7ea1bcd7f65dd08",
+        "width" : 64
+      } ],
+      "name" : "Common Man Boogie (Dusty Rhodes Tag Team Classic Remix)",
+      "release_date" : "2016-10-28",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:3JBjFfECLdAIg3Edytqnx9"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7J9TIEbCyfxw0GJ66qB7hY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7J9TIEbCyfxw0GJ66qB7hY",
+        "id" : "7J9TIEbCyfxw0GJ66qB7hY",
+        "name" : "Cortez",
+        "type" : "artist",
+        "uri" : "spotify:artist:7J9TIEbCyfxw0GJ66qB7hY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4yEndmncOfv8tCooX73OdH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4yEndmncOfv8tCooX73OdH",
+      "id" : "4yEndmncOfv8tCooX73OdH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/cf127549189d40cbb49ee041aa1ea18bb15ea0c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1572452ae1f098a4cb29bedb6fcc5bf96852df49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/09fe9c7f43e54dd728b6adcd6f2ace4261528263",
+        "width" : 64
+      } ],
+      "name" : "Classic (Remix) [feat. Method Man]",
+      "release_date" : "2017-01-01",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:4yEndmncOfv8tCooX73OdH"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5a8xgtVJ3yFSy2yskQAK75"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5a8xgtVJ3yFSy2yskQAK75",
+        "id" : "5a8xgtVJ3yFSy2yskQAK75",
+        "name" : "Che-Val",
+        "type" : "artist",
+        "uri" : "spotify:artist:5a8xgtVJ3yFSy2yskQAK75"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7mEFUarU1xIKgTLp9ETy57"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7mEFUarU1xIKgTLp9ETy57",
+      "id" : "7mEFUarU1xIKgTLp9ETy57",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b69d6a31facb05ca7ca5e7e70f4bcf42d359df76",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/313994248723aaeceb578505d6187f2492e88c63",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/90ae33f07e6fc3bde864ddc8bb4d1fdde1e29535",
+        "width" : 64
+      } ],
+      "name" : "Classic Man (Remix)",
+      "release_date" : "2015-10-12",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:7mEFUarU1xIKgTLp9ETy57"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ViORA1xMSmL77eTxmzZPZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ViORA1xMSmL77eTxmzZPZ",
+        "id" : "5ViORA1xMSmL77eTxmzZPZ",
+        "name" : "Cover Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ViORA1xMSmL77eTxmzZPZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6WSiaiPQnSYFCywhniHg2B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6WSiaiPQnSYFCywhniHg2B",
+      "id" : "6WSiaiPQnSYFCywhniHg2B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/8944a3c3ed2cb942afef145dff4bda82bf5bd75a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8855e069b983f0431483eb045a83df993b4e5a7e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/dc2e344b6470bcc71144d95f0498781fa56dd383",
+        "width" : 64
+      } ],
+      "name" : "Classic Man Remix (Originally Performed by Jidenna feat. Kendrick Lamar) [Karaoke Version] - Single",
+      "release_date" : "2015-08-21",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:6WSiaiPQnSYFCywhniHg2B"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1pysuCYPY1xgxgIdnWDVjp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1pysuCYPY1xgxgIdnWDVjp",
+        "id" : "1pysuCYPY1xgxgIdnWDVjp",
+        "name" : "Checkdhat",
+        "type" : "artist",
+        "uri" : "spotify:artist:1pysuCYPY1xgxgIdnWDVjp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/35FrZuNLzUY2g2DTmd8U34"
+      },
+      "href" : "https://api.spotify.com/v1/albums/35FrZuNLzUY2g2DTmd8U34",
+      "id" : "35FrZuNLzUY2g2DTmd8U34",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/1ee188ecf484c35a2918f2a6c58ff0aa7dd6929d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f00acdbdc953bcc7cb2e741f7774846169f27947",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0b849758704cc22dd28612e4e57524693c9298da",
+        "width" : 64
+      } ],
+      "name" : "Dirty Mann (feat. Blacksan) [Classic Man Remix]",
+      "release_date" : "2015-09-05",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:35FrZuNLzUY2g2DTmd8U34"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5HuvfQsY8NDd7x9Cg6POEF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5HuvfQsY8NDd7x9Cg6POEF",
+        "id" : "5HuvfQsY8NDd7x9Cg6POEF",
+        "name" : "Karaoke Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:5HuvfQsY8NDd7x9Cg6POEF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1xAQLatiOSGHnTbkv0SirX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1xAQLatiOSGHnTbkv0SirX",
+      "id" : "1xAQLatiOSGHnTbkv0SirX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/7413139633f6c85fd8bf698c50b2e3ebc56e30e0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/3c5d0b5986c2acd98cb44ee260da17489dd7e60d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/1835fc56186e200c51bccf8e6a569422db9e66a2",
+        "width" : 64
+      } ],
+      "name" : "Classic Man Remix (Originally Performed by Jidenna feat. Kendrick Lamar) [Karaoke Version] - Single",
+      "release_date" : "2015-08-21",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:1xAQLatiOSGHnTbkv0SirX"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dxlqq9p682FXcj9tk1IQh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dxlqq9p682FXcj9tk1IQh",
+        "id" : "5dxlqq9p682FXcj9tk1IQh",
+        "name" : "Chart Topping Karaoke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dxlqq9p682FXcj9tk1IQh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2CRpL96TpwZcQQZyTcVa2f"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2CRpL96TpwZcQQZyTcVa2f",
+      "id" : "2CRpL96TpwZcQQZyTcVa2f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2b51f2c0888efa84af4043ef8e3382eefe4d0d7e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b48902295ca48b9fe4f0cfa6dd4772ef9d4daae0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/78d0aa4365e6d09e3c832284e5f15139c332be1b",
+        "width" : 64
+      } ],
+      "name" : "Classic Man (Remix) [In the Style of Jidenna feat. Kendrick Lamar] [Karaoke Version] - Single",
+      "release_date" : "2015-08-31",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:2CRpL96TpwZcQQZyTcVa2f"
+    } ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 9
+  },
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=classic+man+remi*&type=artist&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 0
+  },
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=classic+man+remi*&type=track&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+          "id" : "4TsHKU8l8Wq7n7OPVikirn",
+          "name" : "Jidenna",
+          "type" : "artist",
+          "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0b2j47HuTRqlzvROQktVtg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0b2j47HuTRqlzvROQktVtg",
+        "id" : "0b2j47HuTRqlzvROQktVtg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/d8ee9771a5d00a8158df122b781ddeab5ce966eb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3705f6209abc48502aa02ca568aa68925b0f8cec",
+          "width" : 64
+        } ],
+        "name" : "Classic Man (Remix)",
+        "release_date" : "2015-06-22",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:0b2j47HuTRqlzvROQktVtg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name" : "Kendrick Lamar",
+        "type" : "artist",
+        "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 235046,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USSM11505402"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/530J9GupahE2O4a1iVkQxB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/530J9GupahE2O4a1iVkQxB",
+      "id" : "530J9GupahE2O4a1iVkQxB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man - Remix",
+      "popularity" : 58,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4a0a09ae53e61bbd7e48439c5e4861dcb5e984f4?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:530J9GupahE2O4a1iVkQxB"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+          "id" : "4TsHKU8l8Wq7n7OPVikirn",
+          "name" : "Jidenna",
+          "type" : "artist",
+          "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3JjVZ7NGlIOKFO1SdP78md"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3JjVZ7NGlIOKFO1SdP78md",
+        "id" : "3JjVZ7NGlIOKFO1SdP78md",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/d8ee9771a5d00a8158df122b781ddeab5ce966eb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3705f6209abc48502aa02ca568aa68925b0f8cec",
+          "width" : 64
+        } ],
+        "name" : "Classic Man (Remix)",
+        "release_date" : "2015-06-17",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:3JjVZ7NGlIOKFO1SdP78md"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name" : "Kendrick Lamar",
+        "type" : "artist",
+        "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 235067,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM11505403"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1FMhcAIr3WDQ70ySjW8YdU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1FMhcAIr3WDQ70ySjW8YdU",
+      "id" : "1FMhcAIr3WDQ70ySjW8YdU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man - Remix",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b45fd6c52295382928f10881598777457fa114e2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1FMhcAIr3WDQ70ySjW8YdU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/730ntnkLWwTRTuYtqvrKVP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/730ntnkLWwTRTuYtqvrKVP",
+          "id" : "730ntnkLWwTRTuYtqvrKVP",
+          "name" : "Pollie Pop",
+          "type" : "artist",
+          "uri" : "spotify:artist:730ntnkLWwTRTuYtqvrKVP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2qrmXHS1T1smHtWA49rCXW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2qrmXHS1T1smHtWA49rCXW",
+        "id" : "2qrmXHS1T1smHtWA49rCXW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2448ca1b68c6899256d9c5bcaeb1d7018bb69f50",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c60fd51889fc00a4dd6eb6a517fb2bf61777fd54",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/f6244cb6677d9d9e4b053bb52604a99cba271a58",
+          "width" : 64
+        } ],
+        "name" : "28 Grams, Vol. 5",
+        "release_date" : "2015-12-21",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:2qrmXHS1T1smHtWA49rCXW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/730ntnkLWwTRTuYtqvrKVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/730ntnkLWwTRTuYtqvrKVP",
+        "id" : "730ntnkLWwTRTuYtqvrKVP",
+        "name" : "Pollie Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:730ntnkLWwTRTuYtqvrKVP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 363023,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "US7VG1531034"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5PUpIUPme8e5iVdCS2skD1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5PUpIUPme8e5iVdCS2skD1",
+      "id" : "5PUpIUPme8e5iVdCS2skD1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man (Remix) - Screwed",
+      "popularity" : 39,
+      "preview_url" : "https://p.scdn.co/mp3-preview/30c1e0a91f0dc368846041b2deaccea41448f356?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 29,
+      "type" : "track",
+      "uri" : "spotify:track:5PUpIUPme8e5iVdCS2skD1"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6euBqjV02IlCVUI3ION0NA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6euBqjV02IlCVUI3ION0NA",
+        "id" : "6euBqjV02IlCVUI3ION0NA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/92da9c032674c4476ef2c8a2e910eca39cc584c4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/a24630f2d6892c948187ceaff0fdd142a6829342",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4518f368418cc62a37e87402570bbf971242b091",
+          "width" : 64
+        } ],
+        "name" : "Wondaland Presents: The Eephus",
+        "release_date" : "2015-08-14",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:6euBqjV02IlCVUI3ION0NA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name" : "Kendrick Lamar",
+        "type" : "artist",
+        "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 235046,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USSM11505402"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/66rG5T4sHCFIH3M9lvSgWG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/66rG5T4sHCFIH3M9lvSgWG",
+      "id" : "66rG5T4sHCFIH3M9lvSgWG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man - Remix",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4a0a09ae53e61bbd7e48439c5e4861dcb5e984f4?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:66rG5T4sHCFIH3M9lvSgWG"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3BWwGiNn0QAs8bVWisiW7S"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3BWwGiNn0QAs8bVWisiW7S",
+        "id" : "3BWwGiNn0QAs8bVWisiW7S",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/92da9c032674c4476ef2c8a2e910eca39cc584c4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/a24630f2d6892c948187ceaff0fdd142a6829342",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4518f368418cc62a37e87402570bbf971242b091",
+          "width" : 64
+        } ],
+        "name" : "Wondaland Presents: The Eephus",
+        "release_date" : "2015-08-14",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:3BWwGiNn0QAs8bVWisiW7S"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name" : "Kendrick Lamar",
+        "type" : "artist",
+        "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 235067,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM11505403"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4WnwyNAkUjbTaC7oqYifq6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4WnwyNAkUjbTaC7oqYifq6",
+      "id" : "4WnwyNAkUjbTaC7oqYifq6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man - Remix",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b45fd6c52295382928f10881598777457fa114e2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:4WnwyNAkUjbTaC7oqYifq6"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07EeB28NIEY0CtKz6TLyI3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07EeB28NIEY0CtKz6TLyI3",
+          "id" : "07EeB28NIEY0CtKz6TLyI3",
+          "name" : "InstaTrax",
+          "type" : "artist",
+          "uri" : "spotify:artist:07EeB28NIEY0CtKz6TLyI3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7zPYl1hUQHFEy2j3icSvEB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7zPYl1hUQHFEy2j3icSvEB",
+        "id" : "7zPYl1hUQHFEy2j3icSvEB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/16b7a9dbe9108d63b821c33c504466002a3446fa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0841645d344e86b16fd12de93ecd0d93b9efc821",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3435c76f1aa95d1497b609625a4449d53c6b159a",
+          "width" : 64
+        } ],
+        "name" : "Top Instrumental Hits, Vol. 12",
+        "release_date" : "2015-08-26",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:7zPYl1hUQHFEy2j3icSvEB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07EeB28NIEY0CtKz6TLyI3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07EeB28NIEY0CtKz6TLyI3",
+        "id" : "07EeB28NIEY0CtKz6TLyI3",
+        "name" : "InstaTrax",
+        "type" : "artist",
+        "uri" : "spotify:artist:07EeB28NIEY0CtKz6TLyI3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 241054,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACI1508494"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Hy7dQLMayA3F3vwfThskN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Hy7dQLMayA3F3vwfThskN",
+      "id" : "3Hy7dQLMayA3F3vwfThskN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man (Remix) [Instrumental Version]",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a6bfd86e755ca616277e7c66aa81ea7b081185cf?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3Hy7dQLMayA3F3vwfThskN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5a8xgtVJ3yFSy2yskQAK75"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5a8xgtVJ3yFSy2yskQAK75",
+          "id" : "5a8xgtVJ3yFSy2yskQAK75",
+          "name" : "Che-Val",
+          "type" : "artist",
+          "uri" : "spotify:artist:5a8xgtVJ3yFSy2yskQAK75"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7nKEF9SclvL25b1b0S1cN3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7nKEF9SclvL25b1b0S1cN3",
+        "id" : "7nKEF9SclvL25b1b0S1cN3",
+        "images" : [ {
+          "height" : 600,
+          "url" : "https://i.scdn.co/image/d153c39760f566707e4b8a2bb2fcbcb2895ab2c5",
+          "width" : 600
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/37aaee11cfb1db9d9501902cc1c52f50bc8ebd90",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/28fbfc3c0fa5ad6113e84ccfee1adaa001bd5ada",
+          "width" : 64
+        } ],
+        "name" : "Waterproof",
+        "release_date" : "2016-04-12",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:7nKEF9SclvL25b1b0S1cN3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5a8xgtVJ3yFSy2yskQAK75"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5a8xgtVJ3yFSy2yskQAK75",
+        "id" : "5a8xgtVJ3yFSy2yskQAK75",
+        "name" : "Che-Val",
+        "type" : "artist",
+        "uri" : "spotify:artist:5a8xgtVJ3yFSy2yskQAK75"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 145746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMWYP1610006"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Sb3kQxHy2x0Yhms3mh4U1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Sb3kQxHy2x0Yhms3mh4U1",
+      "id" : "0Sb3kQxHy2x0Yhms3mh4U1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man (Remix)",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/716e7d8e8aa10f9c7f2b27dc521c910a60d5fc25?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:0Sb3kQxHy2x0Yhms3mh4U1"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0B04p1V4roD6MgoktAN5jT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0B04p1V4roD6MgoktAN5jT",
+          "id" : "0B04p1V4roD6MgoktAN5jT",
+          "name" : "Big Hits",
+          "type" : "artist",
+          "uri" : "spotify:artist:0B04p1V4roD6MgoktAN5jT"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2IPsbKdO8YeWDuNyq06SIb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2IPsbKdO8YeWDuNyq06SIb",
+        "id" : "2IPsbKdO8YeWDuNyq06SIb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f19bdbadc0a7af6ccc42e6468db1b6d26a9334e0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/f0f45f1c66ab13eb419261bf0b81f761d2bf949b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ee27b3073c32ad106b94e6700f5cb673a13e6b5d",
+          "width" : 64
+        } ],
+        "name" : "Big Hits RnB",
+        "release_date" : "2015-10-02",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:2IPsbKdO8YeWDuNyq06SIb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0B04p1V4roD6MgoktAN5jT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0B04p1V4roD6MgoktAN5jT",
+        "id" : "0B04p1V4roD6MgoktAN5jT",
+        "name" : "Big Hits",
+        "type" : "artist",
+        "uri" : "spotify:artist:0B04p1V4roD6MgoktAN5jT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 207577,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE831504750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/013t8yPkCiFSRau4wd7rFt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/013t8yPkCiFSRau4wd7rFt",
+      "id" : "013t8yPkCiFSRau4wd7rFt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man (Remix)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ffe47ccc82ab27a20275cc41009d947cc42fc33c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 25,
+      "type" : "track",
+      "uri" : "spotify:track:013t8yPkCiFSRau4wd7rFt"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7J9TIEbCyfxw0GJ66qB7hY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7J9TIEbCyfxw0GJ66qB7hY",
+          "id" : "7J9TIEbCyfxw0GJ66qB7hY",
+          "name" : "Cortez",
+          "type" : "artist",
+          "uri" : "spotify:artist:7J9TIEbCyfxw0GJ66qB7hY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4yEndmncOfv8tCooX73OdH"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4yEndmncOfv8tCooX73OdH",
+        "id" : "4yEndmncOfv8tCooX73OdH",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/cf127549189d40cbb49ee041aa1ea18bb15ea0c0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/1572452ae1f098a4cb29bedb6fcc5bf96852df49",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/09fe9c7f43e54dd728b6adcd6f2ace4261528263",
+          "width" : 64
+        } ],
+        "name" : "Classic (Remix) [feat. Method Man]",
+        "release_date" : "2017-01-01",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:4yEndmncOfv8tCooX73OdH"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7J9TIEbCyfxw0GJ66qB7hY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7J9TIEbCyfxw0GJ66qB7hY",
+        "id" : "7J9TIEbCyfxw0GJ66qB7hY",
+        "name" : "Cortez",
+        "type" : "artist",
+        "uri" : "spotify:artist:7J9TIEbCyfxw0GJ66qB7hY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 228284,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "TCACW1620885"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/44zipzAO1lWoJVDid8sRMJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/44zipzAO1lWoJVDid8sRMJ",
+      "id" : "44zipzAO1lWoJVDid8sRMJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic (Remix) [feat. Method Man]",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f94e9cd0b801a43c7a1ff7aee20918672c826da2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:44zipzAO1lWoJVDid8sRMJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+          "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+          "name" : "Feist",
+          "type" : "artist",
+          "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4la6HtYlMo0JWW1pgKbtB7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4la6HtYlMo0JWW1pgKbtB7",
+        "id" : "4la6HtYlMo0JWW1pgKbtB7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/0c5f333cb8db0681dbd5bbf4ca23a01dcb0cb178",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/458bd36fc0c3e002b04d30caa200e2a85c3749ba",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3f43700b779728be680055c58f3ba62ff31a347f",
+          "width" : 64
+        } ],
+        "name" : "The Reminder (Deluxe Version)",
+        "release_date" : "2008-11-24",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:4la6HtYlMo0JWW1pgKbtB7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+        "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+        "name" : "Feist",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 400040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FRUM70700014"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2HTByMXgBpDqDw5mPwnk1m"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2HTByMXgBpDqDw5mPwnk1m",
+      "id" : "2HTByMXgBpDqDw5mPwnk1m",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Moon My Man - Boys Noize Classic Mix",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e9398caf46656fef1b0f392dc3a62e076aa6ab34?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:2HTByMXgBpDqDw5mPwnk1m"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0spHbv2fw49lDMkbOAdaqX",
+          "id" : "0spHbv2fw49lDMkbOAdaqX",
+          "name" : "WWE",
+          "type" : "artist",
+          "uri" : "spotify:artist:0spHbv2fw49lDMkbOAdaqX"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4aemlCxfmvFjJa8YKvaiJI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4aemlCxfmvFjJa8YKvaiJI",
+          "id" : "4aemlCxfmvFjJa8YKvaiJI",
+          "name" : "CFO$",
+          "type" : "artist",
+          "uri" : "spotify:artist:4aemlCxfmvFjJa8YKvaiJI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3JBjFfECLdAIg3Edytqnx9"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3JBjFfECLdAIg3Edytqnx9",
+        "id" : "3JBjFfECLdAIg3Edytqnx9",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/363ab1fdcfe5329d4a32afcb8c018b637112a821",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/790e63f90acdecd3f67ebe5d9ba6da9218b11aad",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/f4d569d45f5e30f5b6d86942f7ea1bcd7f65dd08",
+          "width" : 64
+        } ],
+        "name" : "Common Man Boogie (Dusty Rhodes Tag Team Classic Remix)",
+        "release_date" : "2016-10-28",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:3JBjFfECLdAIg3Edytqnx9"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0spHbv2fw49lDMkbOAdaqX",
+        "id" : "0spHbv2fw49lDMkbOAdaqX",
+        "name" : "WWE",
+        "type" : "artist",
+        "uri" : "spotify:artist:0spHbv2fw49lDMkbOAdaqX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4aemlCxfmvFjJa8YKvaiJI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4aemlCxfmvFjJa8YKvaiJI",
+        "id" : "4aemlCxfmvFjJa8YKvaiJI",
+        "name" : "CFO$",
+        "type" : "artist",
+        "uri" : "spotify:artist:4aemlCxfmvFjJa8YKvaiJI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 148153,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USBAC1416500"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3ZtyivtBAsJuWT0wgkHbpN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3ZtyivtBAsJuWT0wgkHbpN",
+      "id" : "3ZtyivtBAsJuWT0wgkHbpN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Common Man Boogie (Dusty Rhodes Tag Team Classic Remix)",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/57b6f28330707b07b335f2a1c4f2ad3d0b0c7c79?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3ZtyivtBAsJuWT0wgkHbpN"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1pysuCYPY1xgxgIdnWDVjp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1pysuCYPY1xgxgIdnWDVjp",
+          "id" : "1pysuCYPY1xgxgIdnWDVjp",
+          "name" : "Checkdhat",
+          "type" : "artist",
+          "uri" : "spotify:artist:1pysuCYPY1xgxgIdnWDVjp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/35FrZuNLzUY2g2DTmd8U34"
+        },
+        "href" : "https://api.spotify.com/v1/albums/35FrZuNLzUY2g2DTmd8U34",
+        "id" : "35FrZuNLzUY2g2DTmd8U34",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/1ee188ecf484c35a2918f2a6c58ff0aa7dd6929d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/f00acdbdc953bcc7cb2e741f7774846169f27947",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/0b849758704cc22dd28612e4e57524693c9298da",
+          "width" : 64
+        } ],
+        "name" : "Dirty Mann (feat. Blacksan) [Classic Man Remix]",
+        "release_date" : "2015-09-05",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:35FrZuNLzUY2g2DTmd8U34"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1pysuCYPY1xgxgIdnWDVjp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1pysuCYPY1xgxgIdnWDVjp",
+        "id" : "1pysuCYPY1xgxgIdnWDVjp",
+        "name" : "Checkdhat",
+        "type" : "artist",
+        "uri" : "spotify:artist:1pysuCYPY1xgxgIdnWDVjp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22Y313z6gnA6HJWQBFi8Up"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22Y313z6gnA6HJWQBFi8Up",
+        "id" : "22Y313z6gnA6HJWQBFi8Up",
+        "name" : "Blacksan",
+        "type" : "artist",
+        "uri" : "spotify:artist:22Y313z6gnA6HJWQBFi8Up"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 208040,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "FRX871595134"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2U6OrGddT9UZieO8s7DIko"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2U6OrGddT9UZieO8s7DIko",
+      "id" : "2U6OrGddT9UZieO8s7DIko",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Dirty Mann - Classic Man Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1d93f3512027bcd4a75b0402f93057889cdb8e21?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2U6OrGddT9UZieO8s7DIko"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3uqXXvdgA02SpfRYUbcVEP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3uqXXvdgA02SpfRYUbcVEP",
+        "id" : "3uqXXvdgA02SpfRYUbcVEP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/44806e5982109740c45b71c1db91211f99fe89f5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/1209e46559961cd5abb672690302152a8cb47f02",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a1a69ab8c466ea4c924019dea61166781876aca2",
+          "width" : 64
+        } ],
+        "name" : "Old Skool House Jams Vol 4 - DJ Mix",
+        "release_date" : "2014-03-04",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:3uqXXvdgA02SpfRYUbcVEP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3EyqSJlNL5NAIupzAyEl7m"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3EyqSJlNL5NAIupzAyEl7m",
+        "id" : "3EyqSJlNL5NAIupzAyEl7m",
+        "name" : "Umosia",
+        "type" : "artist",
+        "uri" : "spotify:artist:3EyqSJlNL5NAIupzAyEl7m"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 269835,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USNRS1432939"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1wJrZEDbDfPMSEXZjk9Abm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1wJrZEDbDfPMSEXZjk9Abm",
+      "id" : "1wJrZEDbDfPMSEXZjk9Abm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Love Don't Let Me Down - Classic Man Remix",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4dbdb37321cb6f020fdf8930229fbf2448eb6b03?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1wJrZEDbDfPMSEXZjk9Abm"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5a8xgtVJ3yFSy2yskQAK75"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5a8xgtVJ3yFSy2yskQAK75",
+          "id" : "5a8xgtVJ3yFSy2yskQAK75",
+          "name" : "Che-Val",
+          "type" : "artist",
+          "uri" : "spotify:artist:5a8xgtVJ3yFSy2yskQAK75"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7mEFUarU1xIKgTLp9ETy57"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7mEFUarU1xIKgTLp9ETy57",
+        "id" : "7mEFUarU1xIKgTLp9ETy57",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/b69d6a31facb05ca7ca5e7e70f4bcf42d359df76",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/313994248723aaeceb578505d6187f2492e88c63",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/90ae33f07e6fc3bde864ddc8bb4d1fdde1e29535",
+          "width" : 64
+        } ],
+        "name" : "Classic Man (Remix)",
+        "release_date" : "2015-10-12",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:7mEFUarU1xIKgTLp9ETy57"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5a8xgtVJ3yFSy2yskQAK75"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5a8xgtVJ3yFSy2yskQAK75",
+        "id" : "5a8xgtVJ3yFSy2yskQAK75",
+        "name" : "Che-Val",
+        "type" : "artist",
+        "uri" : "spotify:artist:5a8xgtVJ3yFSy2yskQAK75"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 143414,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMWYP1510002"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5bp7LMQe4PoCGoWGKhBbdX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5bp7LMQe4PoCGoWGKhBbdX",
+      "id" : "5bp7LMQe4PoCGoWGKhBbdX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man (Remix)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f8f7608e706c871fb9b2e7e7767d6370abc89095?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5bp7LMQe4PoCGoWGKhBbdX"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6yg31BuZmezfw77YTfMvcu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6yg31BuZmezfw77YTfMvcu",
+          "id" : "6yg31BuZmezfw77YTfMvcu",
+          "name" : "DJ Dirty Sprite",
+          "type" : "artist",
+          "uri" : "spotify:artist:6yg31BuZmezfw77YTfMvcu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7wGipI8dR9KQnDRnBW2yKp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7wGipI8dR9KQnDRnBW2yKp",
+        "id" : "7wGipI8dR9KQnDRnBW2yKp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8b9f3633b8ea485fd567c0c19e191529204aa5aa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/8e331d1f4d18db550a1b4abfa860c9b9ec9f5adb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/b35eee18faa6ba7d5f9f060e152367c68d51ae3e",
+          "width" : 64
+        } ],
+        "name" : "Rich Sex",
+        "release_date" : "2015-08-16",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:7wGipI8dR9KQnDRnBW2yKp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yg31BuZmezfw77YTfMvcu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yg31BuZmezfw77YTfMvcu",
+        "id" : "6yg31BuZmezfw77YTfMvcu",
+        "name" : "DJ Dirty Sprite",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yg31BuZmezfw77YTfMvcu"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 202118,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "ESA011509087"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5Lbow4ffJKX44SE4xjTwnl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5Lbow4ffJKX44SE4xjTwnl",
+      "id" : "5Lbow4ffJKX44SE4xjTwnl",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I'm a Classic Man - Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/020be7dc655f835eabe6fb48e181c0c6fe12fa8d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5Lbow4ffJKX44SE4xjTwnl"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5dxlqq9p682FXcj9tk1IQh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5dxlqq9p682FXcj9tk1IQh",
+          "id" : "5dxlqq9p682FXcj9tk1IQh",
+          "name" : "Chart Topping Karaoke",
+          "type" : "artist",
+          "uri" : "spotify:artist:5dxlqq9p682FXcj9tk1IQh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2CRpL96TpwZcQQZyTcVa2f"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2CRpL96TpwZcQQZyTcVa2f",
+        "id" : "2CRpL96TpwZcQQZyTcVa2f",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2b51f2c0888efa84af4043ef8e3382eefe4d0d7e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/b48902295ca48b9fe4f0cfa6dd4772ef9d4daae0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/78d0aa4365e6d09e3c832284e5f15139c332be1b",
+          "width" : 64
+        } ],
+        "name" : "Classic Man (Remix) [In the Style of Jidenna feat. Kendrick Lamar] [Karaoke Version] - Single",
+        "release_date" : "2015-08-31",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:2CRpL96TpwZcQQZyTcVa2f"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dxlqq9p682FXcj9tk1IQh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dxlqq9p682FXcj9tk1IQh",
+        "id" : "5dxlqq9p682FXcj9tk1IQh",
+        "name" : "Chart Topping Karaoke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dxlqq9p682FXcj9tk1IQh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 245106,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUYG1078875"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/66iRxJawg9jL1nVi8dkay7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/66iRxJawg9jL1nVi8dkay7",
+      "id" : "66iRxJawg9jL1nVi8dkay7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man (Remix) [In the Style of Jidenna feat. Kendrick Lamar] [Karaoke Version]",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6ad3cdf1952d265938f1151e94f84572fea4db36?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:66iRxJawg9jL1nVi8dkay7"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5HuvfQsY8NDd7x9Cg6POEF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5HuvfQsY8NDd7x9Cg6POEF",
+          "id" : "5HuvfQsY8NDd7x9Cg6POEF",
+          "name" : "Karaoke Guru",
+          "type" : "artist",
+          "uri" : "spotify:artist:5HuvfQsY8NDd7x9Cg6POEF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xAQLatiOSGHnTbkv0SirX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xAQLatiOSGHnTbkv0SirX",
+        "id" : "1xAQLatiOSGHnTbkv0SirX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/7413139633f6c85fd8bf698c50b2e3ebc56e30e0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3c5d0b5986c2acd98cb44ee260da17489dd7e60d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/1835fc56186e200c51bccf8e6a569422db9e66a2",
+          "width" : 64
+        } ],
+        "name" : "Classic Man Remix (Originally Performed by Jidenna feat. Kendrick Lamar) [Karaoke Version] - Single",
+        "release_date" : "2015-08-21",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:1xAQLatiOSGHnTbkv0SirX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5HuvfQsY8NDd7x9Cg6POEF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5HuvfQsY8NDd7x9Cg6POEF",
+        "id" : "5HuvfQsY8NDd7x9Cg6POEF",
+        "name" : "Karaoke Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:5HuvfQsY8NDd7x9Cg6POEF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 245106,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA2P1521690"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/19O6esAiNdhAh2vvc3Pfvg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/19O6esAiNdhAh2vvc3Pfvg",
+      "id" : "19O6esAiNdhAh2vvc3Pfvg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man Remix (Originally Performed by Jidenna feat. Kendrick Lamar) [Karaoke Version]",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6ad3cdf1952d265938f1151e94f84572fea4db36?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:19O6esAiNdhAh2vvc3Pfvg"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ViORA1xMSmL77eTxmzZPZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ViORA1xMSmL77eTxmzZPZ",
+          "id" : "5ViORA1xMSmL77eTxmzZPZ",
+          "name" : "Cover Guru",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ViORA1xMSmL77eTxmzZPZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6WSiaiPQnSYFCywhniHg2B"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6WSiaiPQnSYFCywhniHg2B",
+        "id" : "6WSiaiPQnSYFCywhniHg2B",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8944a3c3ed2cb942afef145dff4bda82bf5bd75a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/8855e069b983f0431483eb045a83df993b4e5a7e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/dc2e344b6470bcc71144d95f0498781fa56dd383",
+          "width" : 64
+        } ],
+        "name" : "Classic Man Remix (Originally Performed by Jidenna feat. Kendrick Lamar) [Karaoke Version] - Single",
+        "release_date" : "2015-08-21",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:6WSiaiPQnSYFCywhniHg2B"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ViORA1xMSmL77eTxmzZPZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ViORA1xMSmL77eTxmzZPZ",
+        "id" : "5ViORA1xMSmL77eTxmzZPZ",
+        "name" : "Cover Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ViORA1xMSmL77eTxmzZPZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 245106,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA2P1521689"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3vSoTNyWxq2N1LInTVEXxc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3vSoTNyWxq2N1LInTVEXxc",
+      "id" : "3vSoTNyWxq2N1LInTVEXxc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man Remix (Originally Performed by Jidenna feat. Kendrick Lamar) [ Karaoke Version]",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6ad3cdf1952d265938f1151e94f84572fea4db36?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3vSoTNyWxq2N1LInTVEXxc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/31bMohvOeH5gTgKZe9HYWD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/31bMohvOeH5gTgKZe9HYWD",
+          "id" : "31bMohvOeH5gTgKZe9HYWD",
+          "name" : "Armin van Buuren ASOT Radio Top 20",
+          "type" : "artist",
+          "uri" : "spotify:artist:31bMohvOeH5gTgKZe9HYWD"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4sNirzYp9wNwIKrPiYMiYa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4sNirzYp9wNwIKrPiYMiYa",
+        "id" : "4sNirzYp9wNwIKrPiYMiYa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/6d9d85b07f97898e273ade8c99879aff92957414",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/99c283b215eea390af7f7ec1cabffd22e6df4633",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a654a2e51f7caf64e62610b31eb49815849ef38d",
+          "width" : 64
+        } ],
+        "name" : "A State Of Trance Radio Top 20 - August / September / October 2015 (Including Classic Bonus Track)",
+        "release_date" : "2015-09-18",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:4sNirzYp9wNwIKrPiYMiYa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+        "id" : "1xT5p0VBpnZDrvVSjX9sri",
+        "name" : "Dash Berlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1jn8guuTPWlPMLjNP9Aqhg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1jn8guuTPWlPMLjNP9Aqhg",
+        "id" : "1jn8guuTPWlPMLjNP9Aqhg",
+        "name" : "Cerf, Mitiska & Jaren",
+        "type" : "artist",
+        "uri" : "spotify:artist:1jn8guuTPWlPMLjNP9Aqhg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/66B0qssqmVQXJGf9cmTNKi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/66B0qssqmVQXJGf9cmTNKi",
+        "id" : "66B0qssqmVQXJGf9cmTNKi",
+        "name" : "David Gravell",
+        "type" : "artist",
+        "uri" : "spotify:artist:66B0qssqmVQXJGf9cmTNKi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 261818,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF711503951"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5cpMryj1rRMjwYJKMZ5JiF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5cpMryj1rRMjwYJKMZ5JiF",
+      "id" : "5cpMryj1rRMjwYJKMZ5JiF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Man On The Run - David Gravell 2015 Remix",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d56d94b76a90543fe5436245e227c726b356d242?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5cpMryj1rRMjwYJKMZ5JiF"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/15zZcuvCWZe7AiHA7KKXFD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/15zZcuvCWZe7AiHA7KKXFD",
+        "id" : "15zZcuvCWZe7AiHA7KKXFD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/7441b2ba7c27276c74b833534e08376f6878d7f7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e1d065fc5968dec9dff4b36e52737c5427d92e11",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/11232e1f9fca957ceec98e02f921284cde1c826f",
+          "width" : 64
+        } ],
+        "name" : "Nervous: The First 50 Releases",
+        "release_date" : "2013-02-12",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:15zZcuvCWZe7AiHA7KKXFD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3EyqSJlNL5NAIupzAyEl7m"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3EyqSJlNL5NAIupzAyEl7m",
+        "id" : "3EyqSJlNL5NAIupzAyEl7m",
+        "name" : "Umosia",
+        "type" : "artist",
+        "uri" : "spotify:artist:3EyqSJlNL5NAIupzAyEl7m"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 334392,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USNRS1230589"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3KHADyozTjSftOH4yfT0q4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3KHADyozTjSftOH4yfT0q4",
+      "id" : "3KHADyozTjSftOH4yfT0q4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Love Don't Let Me Down - Classic Man Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/67601fd6542dadd90ad67b524a0ad6505f1e53b8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 50,
+      "type" : "track",
+      "uri" : "spotify:track:3KHADyozTjSftOH4yfT0q4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/65HdMHmas8nAip0vbbP9m9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/65HdMHmas8nAip0vbbP9m9",
+          "id" : "65HdMHmas8nAip0vbbP9m9",
+          "name" : "Tatana",
+          "type" : "artist",
+          "uri" : "spotify:artist:65HdMHmas8nAip0vbbP9m9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/43ZQUadsBf8tV4tbeXfwoW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/43ZQUadsBf8tV4tbeXfwoW",
+        "id" : "43ZQUadsBf8tV4tbeXfwoW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/9d2eafa57a310d06ecd506b3cb8e61d28ada0e10",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/6036874e747ce93ed462c5e1e38afea98a1a56f0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/473f71a4827f14ab2d6916078d128a7ab29cb260",
+          "width" : 64
+        } ],
+        "name" : "Trance World, Vol. 8",
+        "release_date" : "2009-09-28",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:43ZQUadsBf8tV4tbeXfwoW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+        "id" : "1xT5p0VBpnZDrvVSjX9sri",
+        "name" : "Dash Berlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BthEkBXth6eZmU91fPKpd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BthEkBXth6eZmU91fPKpd",
+        "id" : "4BthEkBXth6eZmU91fPKpd",
+        "name" : "Cerf",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BthEkBXth6eZmU91fPKpd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2BVVk2fLwxQisteQ8VXzCf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2BVVk2fLwxQisteQ8VXzCf",
+        "id" : "2BVVk2fLwxQisteQ8VXzCf",
+        "name" : "Mitiska",
+        "type" : "artist",
+        "uri" : "spotify:artist:2BVVk2fLwxQisteQ8VXzCf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YY5XUHt2suAzSiPMLx5Wm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YY5XUHt2suAzSiPMLx5Wm",
+        "id" : "0YY5XUHt2suAzSiPMLx5Wm",
+        "name" : "Jaren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YY5XUHt2suAzSiPMLx5Wm"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 578181,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF710902896"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6sfRX4NgUNjcMCrrN8m88t"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6sfRX4NgUNjcMCrrN8m88t",
+      "id" : "6sfRX4NgUNjcMCrrN8m88t",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Man On The Run [Classic Bonus Track] - Nic Chagall Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2aa7e966da70e5d0191a85d72ae8eab2750f1237?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:6sfRX4NgUNjcMCrrN8m88t"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/74q0gwdbVhyu5uhlG6OXcS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/74q0gwdbVhyu5uhlG6OXcS",
+        "id" : "74q0gwdbVhyu5uhlG6OXcS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2a70a562ed2d4869c3351dec39738b3ba8b67b2c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3b1d703174ca05405365e87b2b36e3430bcd6b72",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/303c027dfbab4b00487e98f19c7d7e855ba6caf9",
+          "width" : 64
+        } ],
+        "name" : "Heroes Of Trance 2012",
+        "release_date" : "2012-04-13",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:74q0gwdbVhyu5uhlG6OXcS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+        "id" : "1xT5p0VBpnZDrvVSjX9sri",
+        "name" : "Dash Berlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BthEkBXth6eZmU91fPKpd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BthEkBXth6eZmU91fPKpd",
+        "id" : "4BthEkBXth6eZmU91fPKpd",
+        "name" : "Cerf",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BthEkBXth6eZmU91fPKpd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2BVVk2fLwxQisteQ8VXzCf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2BVVk2fLwxQisteQ8VXzCf",
+        "id" : "2BVVk2fLwxQisteQ8VXzCf",
+        "name" : "Mitiska",
+        "type" : "artist",
+        "uri" : "spotify:artist:2BVVk2fLwxQisteQ8VXzCf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YY5XUHt2suAzSiPMLx5Wm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YY5XUHt2suAzSiPMLx5Wm",
+        "id" : "0YY5XUHt2suAzSiPMLx5Wm",
+        "name" : "Jaren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YY5XUHt2suAzSiPMLx5Wm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 578181,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF710902896"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7rvzEJpYZkSLEEzX7HiNrk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7rvzEJpYZkSLEEzX7HiNrk",
+      "id" : "7rvzEJpYZkSLEEzX7HiNrk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Man On The Run [Classic Bonus Track] - Nic Chagall Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2aa7e966da70e5d0191a85d72ae8eab2750f1237?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:7rvzEJpYZkSLEEzX7HiNrk"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+          "id" : "1xT5p0VBpnZDrvVSjX9sri",
+          "name" : "Dash Berlin",
+          "type" : "artist",
+          "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/64c4t73nPgzQAQggTRA5n3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/64c4t73nPgzQAQggTRA5n3",
+        "id" : "64c4t73nPgzQAQggTRA5n3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/da0e195d4505f99e85a67d8d4f8eae344b6eb5d4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c374eb31aa4978a5543b2a38d778e6a8641af765",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/69e2b2b66e087819f89184a38303c9bd05d2e3e3",
+          "width" : 64
+        } ],
+        "name" : "Dash Berlin Top 15 - August 2011 (Including Classic Bonus Track)",
+        "release_date" : "2011-08-12",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:64c4t73nPgzQAQggTRA5n3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+        "id" : "1xT5p0VBpnZDrvVSjX9sri",
+        "name" : "Dash Berlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BthEkBXth6eZmU91fPKpd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BthEkBXth6eZmU91fPKpd",
+        "id" : "4BthEkBXth6eZmU91fPKpd",
+        "name" : "Cerf",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BthEkBXth6eZmU91fPKpd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2BVVk2fLwxQisteQ8VXzCf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2BVVk2fLwxQisteQ8VXzCf",
+        "id" : "2BVVk2fLwxQisteQ8VXzCf",
+        "name" : "Mitiska",
+        "type" : "artist",
+        "uri" : "spotify:artist:2BVVk2fLwxQisteQ8VXzCf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YY5XUHt2suAzSiPMLx5Wm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YY5XUHt2suAzSiPMLx5Wm",
+        "id" : "0YY5XUHt2suAzSiPMLx5Wm",
+        "name" : "Jaren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YY5XUHt2suAzSiPMLx5Wm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 578181,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF710902896"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0DI5F9G8u3jZAKnzunyvw5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0DI5F9G8u3jZAKnzunyvw5",
+      "id" : "0DI5F9G8u3jZAKnzunyvw5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Man On The Run - Nic Chagall Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2aa7e966da70e5d0191a85d72ae8eab2750f1237?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:0DI5F9G8u3jZAKnzunyvw5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/25mFVpuABa9GkGcj9eOPce"
+          },
+          "href" : "https://api.spotify.com/v1/artists/25mFVpuABa9GkGcj9eOPce",
+          "id" : "25mFVpuABa9GkGcj9eOPce",
+          "name" : "Armin van Buuren ASOT Radio",
+          "type" : "artist",
+          "uri" : "spotify:artist:25mFVpuABa9GkGcj9eOPce"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/09HCDSCHJyk7qyeOO4rhG3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/09HCDSCHJyk7qyeOO4rhG3",
+        "id" : "09HCDSCHJyk7qyeOO4rhG3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/7761b2603fe3557609b5d78d581478116ca38b56",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/9d4e67f6ca9d0027308e2786cc1f57cc425ce3ab",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4dbef98e5408233121429830b3c86c0255441f39",
+          "width" : 64
+        } ],
+        "name" : "A State Of Trance Episode 668",
+        "release_date" : "2014-06-19",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:09HCDSCHJyk7qyeOO4rhG3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+        "id" : "1xT5p0VBpnZDrvVSjX9sri",
+        "name" : "Dash Berlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BthEkBXth6eZmU91fPKpd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BthEkBXth6eZmU91fPKpd",
+        "id" : "4BthEkBXth6eZmU91fPKpd",
+        "name" : "Cerf",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BthEkBXth6eZmU91fPKpd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2BVVk2fLwxQisteQ8VXzCf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2BVVk2fLwxQisteQ8VXzCf",
+        "id" : "2BVVk2fLwxQisteQ8VXzCf",
+        "name" : "Mitiska",
+        "type" : "artist",
+        "uri" : "spotify:artist:2BVVk2fLwxQisteQ8VXzCf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UcHr3PD9sCXIfbihxhW6J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UcHr3PD9sCXIfbihxhW6J",
+        "id" : "2UcHr3PD9sCXIfbihxhW6J",
+        "name" : "Jaren",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UcHr3PD9sCXIfbihxhW6J"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6gRdK016pnqmdJs82UrzOb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6gRdK016pnqmdJs82UrzOb",
+        "id" : "6gRdK016pnqmdJs82UrzOb",
+        "name" : "Nic Chagall",
+        "type" : "artist",
+        "uri" : "spotify:artist:6gRdK016pnqmdJs82UrzOb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 419750,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF711403121"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0N1yQ7uNZUbS7Pzcj0bho4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0N1yQ7uNZUbS7Pzcj0bho4",
+      "id" : "0N1yQ7uNZUbS7Pzcj0bho4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Man On The Run [ASOT 668] **ASOT Radio Classic** - Nic Chagall Remix",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4e847fd42cc03a5e8e31ca35e08d9dca7147f4ab?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 28,
+      "type" : "track",
+      "uri" : "spotify:track:0N1yQ7uNZUbS7Pzcj0bho4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6FVVK4M2hxhfcV9JeUkzK9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6FVVK4M2hxhfcV9JeUkzK9",
+          "id" : "6FVVK4M2hxhfcV9JeUkzK9",
+          "name" : "Willie Caba",
+          "type" : "artist",
+          "uri" : "spotify:artist:6FVVK4M2hxhfcV9JeUkzK9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1YBxnsS02S73CMELKCQ4Vc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1YBxnsS02S73CMELKCQ4Vc",
+        "id" : "1YBxnsS02S73CMELKCQ4Vc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3646553e5df9f77ced15d14be66c36cc45ea1b4d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3a6a9b1d8c675f080061c2006381dd758465fa5c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/130d3a99614ac20a3e417dfd1f092f40a0388248",
+          "width" : 64
+        } ],
+        "name" : "#HungryNewYear: The Mixtape",
+        "release_date" : "2017-04-29",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:1YBxnsS02S73CMELKCQ4Vc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6FVVK4M2hxhfcV9JeUkzK9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6FVVK4M2hxhfcV9JeUkzK9",
+        "id" : "6FVVK4M2hxhfcV9JeUkzK9",
+        "name" : "Willie Caba",
+        "type" : "artist",
+        "uri" : "spotify:artist:6FVVK4M2hxhfcV9JeUkzK9"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 148344,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "TCADB1708648"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2anRAmvxat4hxgBIYGn0e7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2anRAmvxat4hxgBIYGn0e7",
+      "id" : "2anRAmvxat4hxgBIYGn0e7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man (Hungryman Remix)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ffba93db63565f3c5986ec828b6e5aa45b3173a5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:2anRAmvxat4hxgBIYGn0e7"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2DV9tc1dz1ZIGQWi7UWKSm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2DV9tc1dz1ZIGQWi7UWKSm",
+          "id" : "2DV9tc1dz1ZIGQWi7UWKSm",
+          "name" : "Instrumental Music Factory",
+          "type" : "artist",
+          "uri" : "spotify:artist:2DV9tc1dz1ZIGQWi7UWKSm"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1WzzJXzquHavK5s8XJOsKx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1WzzJXzquHavK5s8XJOsKx",
+        "id" : "1WzzJXzquHavK5s8XJOsKx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/a4d603bed61e238d72c59a774897738b20a0101b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/d7c9fd2aa5d32e917ddee3a409022404ddf37cf2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6fb4a2c6576990070220c42a3ee9ea15ae084668",
+          "width" : 64
+        } ],
+        "name" : "Marimba Remixes Vol. 1",
+        "release_date" : "2015-10-13",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:1WzzJXzquHavK5s8XJOsKx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2DV9tc1dz1ZIGQWi7UWKSm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2DV9tc1dz1ZIGQWi7UWKSm",
+        "id" : "2DV9tc1dz1ZIGQWi7UWKSm",
+        "name" : "Instrumental Music Factory",
+        "type" : "artist",
+        "uri" : "spotify:artist:2DV9tc1dz1ZIGQWi7UWKSm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 29928,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACJ1522368"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6VdmuH1vtXDAdnTqqHONut"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6VdmuH1vtXDAdnTqqHONut",
+      "id" : "6VdmuH1vtXDAdnTqqHONut",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Classic Man (Marimba Remix)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5c599dd445c25616227ccf8ac09a1a01cd161534?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6VdmuH1vtXDAdnTqqHONut"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6OO0PboZcIWUWL7j2IyeoL",
+          "id" : "6OO0PboZcIWUWL7j2IyeoL",
+          "name" : "Markus Schulz",
+          "type" : "artist",
+          "uri" : "spotify:artist:6OO0PboZcIWUWL7j2IyeoL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3F76H4xuUERcGUcsLBSRvS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3F76H4xuUERcGUcsLBSRvS",
+        "id" : "3F76H4xuUERcGUcsLBSRvS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/58f197b76670e706f69153bb187d356b6efb36d5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c8d8451b48d924557b025e6fac1ee7e40301d1ab",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/b5cf1d54042dd80e6d8e0cb87176c3a4cef80675",
+          "width" : 64
+        } ],
+        "name" : "Global DJ Broadcast Top 15 - August 2009 (Inlcuding Classic Bonus Track)",
+        "release_date" : "2009-08-01",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:3F76H4xuUERcGUcsLBSRvS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+        "id" : "1xT5p0VBpnZDrvVSjX9sri",
+        "name" : "Dash Berlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BthEkBXth6eZmU91fPKpd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BthEkBXth6eZmU91fPKpd",
+        "id" : "4BthEkBXth6eZmU91fPKpd",
+        "name" : "Cerf",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BthEkBXth6eZmU91fPKpd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2BVVk2fLwxQisteQ8VXzCf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2BVVk2fLwxQisteQ8VXzCf",
+        "id" : "2BVVk2fLwxQisteQ8VXzCf",
+        "name" : "Mitiska",
+        "type" : "artist",
+        "uri" : "spotify:artist:2BVVk2fLwxQisteQ8VXzCf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YY5XUHt2suAzSiPMLx5Wm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YY5XUHt2suAzSiPMLx5Wm",
+        "id" : "0YY5XUHt2suAzSiPMLx5Wm",
+        "name" : "Jaren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YY5XUHt2suAzSiPMLx5Wm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 578181,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF710902896"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6VveZmQDzFWiGWkXzIwYbM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6VveZmQDzFWiGWkXzIwYbM",
+      "id" : "6VveZmQDzFWiGWkXzIwYbM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Man On The Run [Classic Bonus Track] - Nic Chagall Remix",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2aa7e966da70e5d0191a85d72ae8eab2750f1237?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:6VveZmQDzFWiGWkXzIwYbM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2Mq6G3s3bPsBcxfvSTVECj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2Mq6G3s3bPsBcxfvSTVECj",
+          "id" : "2Mq6G3s3bPsBcxfvSTVECj",
+          "name" : "The Marimba Guys",
+          "type" : "artist",
+          "uri" : "spotify:artist:2Mq6G3s3bPsBcxfvSTVECj"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6aVjppMkyUqMYS2jqWqi4Y"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6aVjppMkyUqMYS2jqWqi4Y",
+        "id" : "6aVjppMkyUqMYS2jqWqi4Y",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/d0b860eda16aab1443e9f7122bfda8951c39d91f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/bc4b1002b0ea462da13b96ccffeb06c8fc069330",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/26bb3fed23a158677f0bea634cb0b72e1d85801d",
+          "width" : 64
+        } ],
+        "name" : "Marimba Hits, Vol. 1",
+        "release_date" : "2015-10-06",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:6aVjppMkyUqMYS2jqWqi4Y"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Mq6G3s3bPsBcxfvSTVECj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Mq6G3s3bPsBcxfvSTVECj",
+        "id" : "2Mq6G3s3bPsBcxfvSTVECj",
+        "name" : "The Marimba Guys",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Mq6G3s3bPsBcxfvSTVECj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231281,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US7VG1527637"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2IraxptG2xaB5WwMRPED9n"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2IraxptG2xaB5WwMRPED9n",
+      "id" : "2IraxptG2xaB5WwMRPED9n",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I'm a Classic Man - Marimba Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4c7d4c8115b4080331d2522a327b84ea49893422?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:2IraxptG2xaB5WwMRPED9n"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ynvmGwc83ZoRx2EIWHXLX",
+          "id" : "5ynvmGwc83ZoRx2EIWHXLX",
+          "name" : "The Beatnuts",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ynvmGwc83ZoRx2EIWHXLX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1ZYRfNdA1Nn5g6Td6SphxG"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1ZYRfNdA1Nn5g6Td6SphxG",
+        "id" : "1ZYRfNdA1Nn5g6Td6SphxG",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/bc3437616a1c5bbb02caeda6b1fd089cfeb11970",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/7af4fe8a8403b2bb860b979173e8b101d74bc04c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6d6e75a76a47451a7a3d3c5052cba311049b833e",
+          "width" : 64
+        } ],
+        "name" : "Classic Nuts Vol. 1",
+        "release_date" : "2002-02-19",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:1ZYRfNdA1Nn5g6Td6SphxG"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ynvmGwc83ZoRx2EIWHXLX",
+        "id" : "5ynvmGwc83ZoRx2EIWHXLX",
+        "name" : "The Beatnuts",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ynvmGwc83ZoRx2EIWHXLX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 208426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLR50100033"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5jQQzZ6WwyDV7tZ1T7eqWc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5jQQzZ6WwyDV7tZ1T7eqWc",
+      "id" : "5jQQzZ6WwyDV7tZ1T7eqWc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Se Acabo - Remix",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ebcb5869f83810f540cec5d96ce8075b8400e78d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5jQQzZ6WwyDV7tZ1T7eqWc"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6jZkIUkLi1WPIFbVfi9dWe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6jZkIUkLi1WPIFbVfi9dWe",
+        "id" : "6jZkIUkLi1WPIFbVfi9dWe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8736befdabac7a983421fbe80c7c494aad4fc7f0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/df6a6a54a2726aff7374aa251b9f0a04b114cbe2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/38a1c805ce20624a6c2a134cec6061dc72cc3887",
+          "width" : 64
+        } ],
+        "name" : "Best of Trance Anthems, Vol. 2 Special Edition (A Classic Hands Up and Vocal Trance Selection)",
+        "release_date" : "2012-08-10",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:6jZkIUkLi1WPIFbVfi9dWe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/65uIFYle2lbINwH5llwFM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/65uIFYle2lbINwH5llwFM4",
+        "id" : "65uIFYle2lbINwH5llwFM4",
+        "name" : "DJ Sakin",
+        "type" : "artist",
+        "uri" : "spotify:artist:65uIFYle2lbINwH5llwFM4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 339111,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEBL61240842"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0j6ICQPjjtR7m17HpSFPEa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0j6ICQPjjtR7m17HpSFPEa",
+      "id" : "0j6ICQPjjtR7m17HpSFPEa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Between Us - Dream Man Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/57183d81212b4adf6b9113aa7c125682035304b1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 25,
+      "type" : "track",
+      "uri" : "spotify:track:0j6ICQPjjtR7m17HpSFPEa"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+          "id" : "1xT5p0VBpnZDrvVSjX9sri",
+          "name" : "Dash Berlin",
+          "type" : "artist",
+          "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/441aGbUI4WM51Bb2tZ0e2K"
+        },
+        "href" : "https://api.spotify.com/v1/albums/441aGbUI4WM51Bb2tZ0e2K",
+        "id" : "441aGbUI4WM51Bb2tZ0e2K",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/acc1cee782573392212a409856cd2153b8ae1f49",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ca284bd73626dd58aba6d52cc685474a6fb9ffa2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4cb92500719b50102b80147e23bef27c5bd7ae8a",
+          "width" : 64
+        } ],
+        "name" : "Dash Berlin Top 15 - October 2011 (Including Classic Bonus Track)",
+        "release_date" : "2011-10-14",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:441aGbUI4WM51Bb2tZ0e2K"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1L49RF04CKd9D70Le9FHFz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1L49RF04CKd9D70Le9FHFz",
+        "id" : "1L49RF04CKd9D70Le9FHFz",
+        "name" : "Man With No Name",
+        "type" : "artist",
+        "uri" : "spotify:artist:1L49RF04CKd9D70Le9FHFz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 428823,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF711101661"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6INV5Y5OiupSMqQN16aRWb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6INV5Y5OiupSMqQN16aRWb",
+      "id" : "6INV5Y5OiupSMqQN16aRWb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Teleport - Nick Sentience Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e3cb2e2b032ecaef6e7608938daadf5140103678?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6INV5Y5OiupSMqQN16aRWb"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6jZkIUkLi1WPIFbVfi9dWe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6jZkIUkLi1WPIFbVfi9dWe",
+        "id" : "6jZkIUkLi1WPIFbVfi9dWe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8736befdabac7a983421fbe80c7c494aad4fc7f0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/df6a6a54a2726aff7374aa251b9f0a04b114cbe2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/38a1c805ce20624a6c2a134cec6061dc72cc3887",
+          "width" : 64
+        } ],
+        "name" : "Best of Trance Anthems, Vol. 2 Special Edition (A Classic Hands Up and Vocal Trance Selection)",
+        "release_date" : "2012-08-10",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:6jZkIUkLi1WPIFbVfi9dWe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5fMZqNBPhB7l8sYDLr1N2j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5fMZqNBPhB7l8sYDLr1N2j",
+        "id" : "5fMZqNBPhB7l8sYDLr1N2j",
+        "name" : "Man-Us",
+        "type" : "artist",
+        "uri" : "spotify:artist:5fMZqNBPhB7l8sYDLr1N2j"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4p7V3WJCAdFVzDBU7i7I9c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4p7V3WJCAdFVzDBU7i7I9c",
+        "id" : "4p7V3WJCAdFVzDBU7i7I9c",
+        "name" : "Denga",
+        "type" : "artist",
+        "uri" : "spotify:artist:4p7V3WJCAdFVzDBU7i7I9c"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 466449,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEBL61240836"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2w1K5cS2X6Onq1kx5fvf7T"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2w1K5cS2X6Onq1kx5fvf7T",
+      "id" : "2w1K5cS2X6Onq1kx5fvf7T",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Walkin On Hills - Lehm & Gras Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/254075873e6df9b19e84d95889ffb65302395d1a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:2w1K5cS2X6Onq1kx5fvf7T"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6H2JQ8igAAa5UBr2u496mb",
+          "id" : "6H2JQ8igAAa5UBr2u496mb",
+          "name" : "John O'Callaghan",
+          "type" : "artist",
+          "uri" : "spotify:artist:6H2JQ8igAAa5UBr2u496mb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Zz1xKklT0as8AwKLDeAmS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Zz1xKklT0as8AwKLDeAmS",
+        "id" : "6Zz1xKklT0as8AwKLDeAmS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/7fba1ee76a9936f2099eead0a31cbc49235c2f2e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/9042c88163b21a6769dc7ec0e5369fdd6d60764e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/58898ade77066fdc120751505a13044cb2423aa9",
+          "width" : 64
+        } ],
+        "name" : "Subculture Selection 2012-05 (Including Classic Bonus Track)",
+        "release_date" : "2012-08-31",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:6Zz1xKklT0as8AwKLDeAmS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FXLHhKgStv36wfwXMhTWt",
+        "id" : "5FXLHhKgStv36wfwXMhTWt",
+        "name" : "Will Atkinson",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FXLHhKgStv36wfwXMhTWt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2hoXSr9amqcFWxB21at0Cu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2hoXSr9amqcFWxB21at0Cu",
+        "id" : "2hoXSr9amqcFWxB21at0Cu",
+        "name" : "Darkboy",
+        "type" : "artist",
+        "uri" : "spotify:artist:2hoXSr9amqcFWxB21at0Cu"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 504133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF711204272"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Eh9oIu4bDhpvwELeqGWXK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Eh9oIu4bDhpvwELeqGWXK",
+      "id" : "7Eh9oIu4bDhpvwELeqGWXK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Darker Shades Of Black - Angry Man Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dfabf318a07263c660fa1198151a5a1fb90872f5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:7Eh9oIu4bDhpvwELeqGWXK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3GghVvugpv9nXQ2YFzZNzN",
+          "id" : "3GghVvugpv9nXQ2YFzZNzN",
+          "name" : "Power Music Workout",
+          "type" : "artist",
+          "uri" : "spotify:artist:3GghVvugpv9nXQ2YFzZNzN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1WiifMpVrsKwaFeL28FRFl"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1WiifMpVrsKwaFeL28FRFl",
+        "id" : "1WiifMpVrsKwaFeL28FRFl",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/0a66185ba1ad3e5d9c3ae8865c4b0ff65ea784bf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3defd941ccaaf861970ea7ca5a222afc432b63c7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/09413f929033c82575216b5753e483c2427e9252",
+          "width" : 64
+        } ],
+        "name" : "35 Classic Running Tracks Vol. 2 (Unmixed Running and Jogging Workout Mixes Multi BPM)",
+        "release_date" : "2015-11-06",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:1WiifMpVrsKwaFeL28FRFl"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GghVvugpv9nXQ2YFzZNzN",
+        "id" : "3GghVvugpv9nXQ2YFzZNzN",
+        "name" : "Power Music Workout",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GghVvugpv9nXQ2YFzZNzN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 243840,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCBK1112711"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5fZuzBCDF0afQSkjyiAtMV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5fZuzBCDF0afQSkjyiAtMV",
+      "id" : "5fZuzBCDF0afQSkjyiAtMV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Man in the Box - Cpr Remix Radio Edit",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a7b526c7668b4245510078bf03e09e55fb7eb91d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 26,
+      "type" : "track",
+      "uri" : "spotify:track:5fZuzBCDF0afQSkjyiAtMV"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3C3rN0hCUUSYwosxswBmMV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3C3rN0hCUUSYwosxswBmMV",
+        "id" : "3C3rN0hCUUSYwosxswBmMV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/364d2068fa2dcfdc97f168086965c5473b753eec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/572aefd446b23f9d3b7c2ded6e4652e36660dd91",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ef4f1304bb45a43c1cd2f6489efe110e0448fd8a",
+          "width" : 64
+        } ],
+        "name" : "Vinyl Session, Vol. 1 (Finest Classic Deep House Tracks)",
+        "release_date" : "2014-12-19",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:3C3rN0hCUUSYwosxswBmMV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3yMb6rqgfKgO62yjZjfQRG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3yMb6rqgfKgO62yjZjfQRG",
+        "id" : "3yMb6rqgfKgO62yjZjfQRG",
+        "name" : "Tim Nice",
+        "type" : "artist",
+        "uri" : "spotify:artist:3yMb6rqgfKgO62yjZjfQRG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 449096,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEMQ11300313"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4JGI7hJZItiYfP4oo0kkwM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4JGI7hJZItiYfP4oo0kkwM",
+      "id" : "4JGI7hJZItiYfP4oo0kkwM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Bounce Man - Kimeko Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f72117cb2abc4c43528e7cc4c9d3f6113975bcab?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:4JGI7hJZItiYfP4oo0kkwM"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1xT5p0VBpnZDrvVSjX9sri",
+          "id" : "1xT5p0VBpnZDrvVSjX9sri",
+          "name" : "Dash Berlin",
+          "type" : "artist",
+          "uri" : "spotify:artist:1xT5p0VBpnZDrvVSjX9sri"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/64c4t73nPgzQAQggTRA5n3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/64c4t73nPgzQAQggTRA5n3",
+        "id" : "64c4t73nPgzQAQggTRA5n3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/da0e195d4505f99e85a67d8d4f8eae344b6eb5d4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c374eb31aa4978a5543b2a38d778e6a8641af765",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/69e2b2b66e087819f89184a38303c9bd05d2e3e3",
+          "width" : 64
+        } ],
+        "name" : "Dash Berlin Top 15 - August 2011 (Including Classic Bonus Track)",
+        "release_date" : "2011-08-12",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:64c4t73nPgzQAQggTRA5n3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2daluU86EJnxx7pGAW7xhC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2daluU86EJnxx7pGAW7xhC",
+        "id" : "2daluU86EJnxx7pGAW7xhC",
+        "name" : "Manida",
+        "type" : "artist",
+        "uri" : "spotify:artist:2daluU86EJnxx7pGAW7xhC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 506496,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLF711102345"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/75xr25KlNKI5zEs8KnIBQy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/75xr25KlNKI5zEs8KnIBQy",
+      "id" : "75xr25KlNKI5zEs8KnIBQy",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You vs Me - Running Man Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/173fba66e051b4af1bbdee6a488ce1ef7ef4d3f6?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:75xr25KlNKI5zEs8KnIBQy"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4IpJrg7tZyCLF1gp0cRr5t"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4IpJrg7tZyCLF1gp0cRr5t",
+        "id" : "4IpJrg7tZyCLF1gp0cRr5t",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/7bcf52a6be49d0003da4c41d5088777528006a66",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/381e9fda0590e5c93609f7bc844f8d27191896b4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3c8d0f1cb858afa646ab75c08cbdf051fa58d592",
+          "width" : 64
+        } ],
+        "name" : "The Classic, Pt. 3",
+        "release_date" : "2012-10-01",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:4IpJrg7tZyCLF1gp0cRr5t"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5wqYm2LArNiv6waq1s6msn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5wqYm2LArNiv6waq1s6msn",
+        "id" : "5wqYm2LArNiv6waq1s6msn",
+        "name" : "Mozaic",
+        "type" : "artist",
+        "uri" : "spotify:artist:5wqYm2LArNiv6waq1s6msn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 517340,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR6V80093878"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0NHbZoiEU8WXDb2mbRiPu5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0NHbZoiEU8WXDb2mbRiPu5",
+      "id" : "0NHbZoiEU8WXDb2mbRiPu5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Smoking Man - Shin Matsura Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c17fe0f70beef6cef09f63af7aa1350ab7136f56?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0NHbZoiEU8WXDb2mbRiPu5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ybfjcJYLBnUGHstBaPSro"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ybfjcJYLBnUGHstBaPSro",
+          "id" : "0ybfjcJYLBnUGHstBaPSro",
+          "name" : "London Allstars",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ybfjcJYLBnUGHstBaPSro"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/35rn7IXCarxWZ2FyFRRypK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/35rn7IXCarxWZ2FyFRRypK",
+        "id" : "35rn7IXCarxWZ2FyFRRypK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/d99ae621d41608970c78830dc7215a5f9a7dcd58",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/57392830cce471ced1a7a1ee76ea42249e2d7cd1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/bbf81d83bf15b7061cc3298f89420240cbdc59b2",
+          "width" : 64
+        } ],
+        "name" : "Gold Medal Hits! 2012 - 25 Classic Sports Anthems ( Deluxe Version )",
+        "release_date" : "2012-07-16",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:35rn7IXCarxWZ2FyFRRypK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ybfjcJYLBnUGHstBaPSro"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ybfjcJYLBnUGHstBaPSro",
+        "id" : "0ybfjcJYLBnUGHstBaPSro",
+        "name" : "London Allstars",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ybfjcJYLBnUGHstBaPSro"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 204373,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMVRR1232070"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/60Ad6qbxdqEyxxq0HHmYRp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/60Ad6qbxdqEyxxq0HHmYRp",
+      "id" : "60Ad6qbxdqEyxxq0HHmYRp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fanfare For The Common Man - London 2012 Olympics Summer Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0d6883829a2e28fe83f54c10ac8e2877f69399b7?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:60Ad6qbxdqEyxxq0HHmYRp"
+    } ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 38
+  },
+  "playlists" : {
+    "href" : "https://api.spotify.com/v1/search?query=classic+man+remi*&type=playlist&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/cpete520/playlist/28MC046c9klzSQoVXQSMdp"
+      },
+      "href" : "https://api.spotify.com/v1/users/cpete520/playlists/28MC046c9klzSQoVXQSMdp",
+      "id" : "28MC046c9klzSQoVXQSMdp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/200c574b96d791d66064fc85d214db50c345a26434beaad5faf39b2deaec8da702b37ba0805bb35c512bd22e2bc73f9883b8612daf4f23acaac3c7767bc60842d505753942b0cedf0e95f53074867806",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/200c574b96d791d66064fc85d214db50c345a26434beaad5faf39b2deaec8da702b37ba0805bb35c512bd22e2bc73f9883b8612daf4f23acaac3c7767bc60842d505753942b0cedf0e95f53074867806",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/200c574b96d791d66064fc85d214db50c345a26434beaad5faf39b2deaec8da702b37ba0805bb35c512bd22e2bc73f9883b8612daf4f23acaac3c7767bc60842d505753942b0cedf0e95f53074867806",
+        "width" : 60
+      } ],
+      "name" : "Jidenna — Classic Man - Remix",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/cpete520"
+        },
+        "href" : "https://api.spotify.com/v1/users/cpete520",
+        "id" : "cpete520",
+        "type" : "user",
+        "uri" : "spotify:user:cpete520"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "6cZJFReyBQJUMI1dzljrWJ+DTtVFs0v9jbOGBHv03WjHCKaDiY0bUFMGdTR2VnCk",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/cpete520/playlists/28MC046c9klzSQoVXQSMdp/tracks",
+        "total" : 169
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:cpete520:playlist:28MC046c9klzSQoVXQSMdp"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1259670948/playlist/3jVaAiLVifTeIQDdCBSMl0"
+      },
+      "href" : "https://api.spotify.com/v1/users/1259670948/playlists/3jVaAiLVifTeIQDdCBSMl0",
+      "id" : "3jVaAiLVifTeIQDdCBSMl0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/33c9c916ba4def46eb5f3ca043dba77156acd8df7e6ae82cb23169cd5ee3f21154567c72692bde13ab58c8dff2c4806c54f4e7a494004fe98f63cbf9ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/33c9c916ba4def46eb5f3ca043dba77156acd8df7e6ae82cb23169cd5ee3f21154567c72692bde13ab58c8dff2c4806c54f4e7a494004fe98f63cbf9ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/33c9c916ba4def46eb5f3ca043dba77156acd8df7e6ae82cb23169cd5ee3f21154567c72692bde13ab58c8dff2c4806c54f4e7a494004fe98f63cbf9ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Chris Geiger",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/1259670948"
+        },
+        "href" : "https://api.spotify.com/v1/users/1259670948",
+        "id" : "1259670948",
+        "type" : "user",
+        "uri" : "spotify:user:1259670948"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "+BB2htmY1haOoquAaxU9EWFo2q40MDLuBUvmjFi9fCt/qnUs1oWh76bUv8MAvqJO",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/1259670948/playlists/3jVaAiLVifTeIQDdCBSMl0/tracks",
+        "total" : 611
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:1259670948:playlist:3jVaAiLVifTeIQDdCBSMl0"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/taymund/playlist/7889sZwgPfscmqZbmjSmKl"
+      },
+      "href" : "https://api.spotify.com/v1/users/taymund/playlists/7889sZwgPfscmqZbmjSmKl",
+      "id" : "7889sZwgPfscmqZbmjSmKl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/2448ca1b68c6899256d9c5bcaeb1d7018bb69f50338908cb01db0af1ad3edb4f200d1f9c7f1493ef79d88f67c19c26e979c1d5b60743abd8c2828697c5866be37dc874da545e047570ba70a2503dfe5d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/2448ca1b68c6899256d9c5bcaeb1d7018bb69f50338908cb01db0af1ad3edb4f200d1f9c7f1493ef79d88f67c19c26e979c1d5b60743abd8c2828697c5866be37dc874da545e047570ba70a2503dfe5d",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/2448ca1b68c6899256d9c5bcaeb1d7018bb69f50338908cb01db0af1ad3edb4f200d1f9c7f1493ef79d88f67c19c26e979c1d5b60743abd8c2828697c5866be37dc874da545e047570ba70a2503dfe5d",
+        "width" : 60
+      } ],
+      "name" : "Classic Man (Remix) - Screwed",
+      "owner" : {
+        "display_name" : "Tace Antonia",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/taymund"
+        },
+        "href" : "https://api.spotify.com/v1/users/taymund",
+        "id" : "taymund",
+        "type" : "user",
+        "uri" : "spotify:user:taymund"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "6sjcvk+YnwGS+7z1dT4rHFnfEoWoqMbTluNVw6LQzwiEVOUF5CC97g4Er25nzxMl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/taymund/playlists/7889sZwgPfscmqZbmjSmKl/tracks",
+        "total" : 8
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:taymund:playlist:7889sZwgPfscmqZbmjSmKl"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/12167221197/playlist/3604SWpe0XydfG9LwIA4iK"
+      },
+      "href" : "https://api.spotify.com/v1/users/12167221197/playlists/3604SWpe0XydfG9LwIA4iK",
+      "id" : "3604SWpe0XydfG9LwIA4iK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/57b926562ee4515526a8b15f475bd4eb9eb691b574fd098bf88b650c9656af01d5300e3424f85f77d5725eb974d195decc6f92a9afae71741e59c7d2ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/57b926562ee4515526a8b15f475bd4eb9eb691b574fd098bf88b650c9656af01d5300e3424f85f77d5725eb974d195decc6f92a9afae71741e59c7d2ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/57b926562ee4515526a8b15f475bd4eb9eb691b574fd098bf88b650c9656af01d5300e3424f85f77d5725eb974d195decc6f92a9afae71741e59c7d2ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Brenda Lucas",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/12167221197"
+        },
+        "href" : "https://api.spotify.com/v1/users/12167221197",
+        "id" : "12167221197",
+        "type" : "user",
+        "uri" : "spotify:user:12167221197"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "NG/ByD3W0U5TV4FL0VlToIrfMwg1OCLR5XmEwrcL7WdUoJoF4BXxI1oDOSkYlUF4",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/12167221197/playlists/3604SWpe0XydfG9LwIA4iK/tracks",
+        "total" : 11
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:12167221197:playlist:3604SWpe0XydfG9LwIA4iK"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/12171420000/playlist/7l3YVJwuEspN3rCYRDHPn9"
+      },
+      "href" : "https://api.spotify.com/v1/users/12171420000/playlists/7l3YVJwuEspN3rCYRDHPn9",
+      "id" : "7l3YVJwuEspN3rCYRDHPn9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/4d56086e1d6670bacbdce88066cf213ac6a5e8b65badab51ef317b9b0e000cc2ec66d99f18d75db0ebc6e1e974dd08af00eb1a6bd742fe257c23eaf8ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/4d56086e1d6670bacbdce88066cf213ac6a5e8b65badab51ef317b9b0e000cc2ec66d99f18d75db0ebc6e1e974dd08af00eb1a6bd742fe257c23eaf8ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/4d56086e1d6670bacbdce88066cf213ac6a5e8b65badab51ef317b9b0e000cc2ec66d99f18d75db0ebc6e1e974dd08af00eb1a6bd742fe257c23eaf8ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Kim Henry-Boxley",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/12171420000"
+        },
+        "href" : "https://api.spotify.com/v1/users/12171420000",
+        "id" : "12171420000",
+        "type" : "user",
+        "uri" : "spotify:user:12171420000"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "xCdHVyc1WUNoQvPBZKQ/S1QEsnfWsHEl1+rMiWWkn2QQyRmRMMK+aiNPO96QRv1K",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/12171420000/playlists/7l3YVJwuEspN3rCYRDHPn9/tracks",
+        "total" : 15
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:12171420000:playlist:7l3YVJwuEspN3rCYRDHPn9"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/kissnera/playlist/6OX0Cla0Mp8lQLElcue6M3"
+      },
+      "href" : "https://api.spotify.com/v1/users/kissnera/playlists/6OX0Cla0Mp8lQLElcue6M3",
+      "id" : "6OX0Cla0Mp8lQLElcue6M3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      } ],
+      "name" : "Classic Man - Remix",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/kissnera"
+        },
+        "href" : "https://api.spotify.com/v1/users/kissnera",
+        "id" : "kissnera",
+        "type" : "user",
+        "uri" : "spotify:user:kissnera"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "OX8yYgnPi23PoRbS99RdSzAMLqsf9aAQdztUzsp63BHgWK02JdtFHyZi+Zy32FH+",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/kissnera/playlists/6OX0Cla0Mp8lQLElcue6M3/tracks",
+        "total" : 4
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:kissnera:playlist:6OX0Cla0Mp8lQLElcue6M3"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/22qglwyb6lhfaebrhnfuyxlpi/playlist/6ibP2hcs00UYibYaw6v20B"
+      },
+      "href" : "https://api.spotify.com/v1/users/22qglwyb6lhfaebrhnfuyxlpi/playlists/6ibP2hcs00UYibYaw6v20B",
+      "id" : "6ibP2hcs00UYibYaw6v20B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/54cb122c546ba1354bb51fa67d78e127f9668c3083d2f708ca39e2026067efe7cecf2d9cb82728c4bf41f93f8c895eff007b88bd2e23e12dfe078792ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/54cb122c546ba1354bb51fa67d78e127f9668c3083d2f708ca39e2026067efe7cecf2d9cb82728c4bf41f93f8c895eff007b88bd2e23e12dfe078792ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/54cb122c546ba1354bb51fa67d78e127f9668c3083d2f708ca39e2026067efe7cecf2d9cb82728c4bf41f93f8c895eff007b88bd2e23e12dfe078792ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Jared Stowers",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/22qglwyb6lhfaebrhnfuyxlpi"
+        },
+        "href" : "https://api.spotify.com/v1/users/22qglwyb6lhfaebrhnfuyxlpi",
+        "id" : "22qglwyb6lhfaebrhnfuyxlpi",
+        "type" : "user",
+        "uri" : "spotify:user:22qglwyb6lhfaebrhnfuyxlpi"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "iZFOISBwp62KTlt3e4VtmoxbwVeMFP47SWadcD8hTPgPilsIkWOfQ+bQYYz8N9oA",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/22qglwyb6lhfaebrhnfuyxlpi/playlists/6ibP2hcs00UYibYaw6v20B/tracks",
+        "total" : 105
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:22qglwyb6lhfaebrhnfuyxlpi:playlist:6ibP2hcs00UYibYaw6v20B"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1242955832/playlist/6V2YHQVCeNsAopNZosZygs"
+      },
+      "href" : "https://api.spotify.com/v1/users/1242955832/playlists/6V2YHQVCeNsAopNZosZygs",
+      "id" : "6V2YHQVCeNsAopNZosZygs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/32d7d3432ff965abb01f706ec2efc38282a11b4557b926562ee4515526a8b15f475bd4eb9eb691b5a70c7247ddac33f920712b1f82e31900fed5b490ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/32d7d3432ff965abb01f706ec2efc38282a11b4557b926562ee4515526a8b15f475bd4eb9eb691b5a70c7247ddac33f920712b1f82e31900fed5b490ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/32d7d3432ff965abb01f706ec2efc38282a11b4557b926562ee4515526a8b15f475bd4eb9eb691b5a70c7247ddac33f920712b1f82e31900fed5b490ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Thurmon Sheppard Jr",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/1242955832"
+        },
+        "href" : "https://api.spotify.com/v1/users/1242955832",
+        "id" : "1242955832",
+        "type" : "user",
+        "uri" : "spotify:user:1242955832"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "3G5bwmnYMsWpGH8Y2OPlHWLDQJOXf+Q0mvF4Z83kwse/AQQtiImtp4438Ab7Y6nT",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/1242955832/playlists/6V2YHQVCeNsAopNZosZygs/tracks",
+        "total" : 250
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:1242955832:playlist:6V2YHQVCeNsAopNZosZygs"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ricardomarshall140/playlist/2iOenoq6b5EoU5CE9c9DO0"
+      },
+      "href" : "https://api.spotify.com/v1/users/ricardomarshall140/playlists/2iOenoq6b5EoU5CE9c9DO0",
+      "id" : "2iOenoq6b5EoU5CE9c9DO0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      } ],
+      "name" : "Classic Man - Remix",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/ricardomarshall140"
+        },
+        "href" : "https://api.spotify.com/v1/users/ricardomarshall140",
+        "id" : "ricardomarshall140",
+        "type" : "user",
+        "uri" : "spotify:user:ricardomarshall140"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MaQKcRESUgkQMbB0v+PMDdP6Kygtfxp/GrwTZOvRYIWeWROminLML07P56FOhOA1",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/ricardomarshall140/playlists/2iOenoq6b5EoU5CE9c9DO0/tracks",
+        "total" : 3
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:ricardomarshall140:playlist:2iOenoq6b5EoU5CE9c9DO0"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/12179366750/playlist/1bK2hiXaUdeTepFR3B7k5R"
+      },
+      "href" : "https://api.spotify.com/v1/users/12179366750/playlists/1bK2hiXaUdeTepFR3B7k5R",
+      "id" : "1bK2hiXaUdeTepFR3B7k5R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/81ce150456fa6b5f70420ce72f64dbbf083a1908c1571c7acf6a8b07ea06ed05a6dd217682c1f6dbdca82bd9c1ccae90b09972027a408068f7a4d700ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/81ce150456fa6b5f70420ce72f64dbbf083a1908c1571c7acf6a8b07ea06ed05a6dd217682c1f6dbdca82bd9c1ccae90b09972027a408068f7a4d700ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/81ce150456fa6b5f70420ce72f64dbbf083a1908c1571c7acf6a8b07ea06ed05a6dd217682c1f6dbdca82bd9c1ccae90b09972027a408068f7a4d700ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Jidenna — Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Macc Gee",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/12179366750"
+        },
+        "href" : "https://api.spotify.com/v1/users/12179366750",
+        "id" : "12179366750",
+        "type" : "user",
+        "uri" : "spotify:user:12179366750"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "SyY2w7bP4Z57mW8xKAvY2mnhHegyLpxROQcKR7ClPSG+ATiOSPDUw+q6+lldPaCN",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/12179366750/playlists/1bK2hiXaUdeTepFR3B7k5R/tracks",
+        "total" : 52
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:12179366750:playlist:1bK2hiXaUdeTepFR3B7k5R"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/bernardkenrick/playlist/3BrDKujDln8KceLeXSDmwK"
+      },
+      "href" : "https://api.spotify.com/v1/users/bernardkenrick/playlists/3BrDKujDln8KceLeXSDmwK",
+      "id" : "3BrDKujDln8KceLeXSDmwK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/371a0ec1a302663c7f768a5a197ce4ff416fa4ba643658c4dd96dff6c2e0ca94db49d48b57ddae85d05d6932e7818ce6f67a08bfce762d6c203506ceed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/371a0ec1a302663c7f768a5a197ce4ff416fa4ba643658c4dd96dff6c2e0ca94db49d48b57ddae85d05d6932e7818ce6f67a08bfce762d6c203506ceed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/371a0ec1a302663c7f768a5a197ce4ff416fa4ba643658c4dd96dff6c2e0ca94db49d48b57ddae85d05d6932e7818ce6f67a08bfce762d6c203506ceed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Jidenna — Classic Man - Remix",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/bernardkenrick"
+        },
+        "href" : "https://api.spotify.com/v1/users/bernardkenrick",
+        "id" : "bernardkenrick",
+        "type" : "user",
+        "uri" : "spotify:user:bernardkenrick"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "sBxL4GXaY9KBJcp9yE0x03WTZ+IVt70pi8vOxocCEij666rL7+WWMn5fUmjcZ9DH",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/bernardkenrick/playlists/3BrDKujDln8KceLeXSDmwK/tracks",
+        "total" : 70
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:bernardkenrick:playlist:3BrDKujDln8KceLeXSDmwK"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/clemmeraddysonn/playlist/6WlXoTYBukUV63XhqPfqpV"
+      },
+      "href" : "https://api.spotify.com/v1/users/clemmeraddysonn/playlists/6WlXoTYBukUV63XhqPfqpV",
+      "id" : "6WlXoTYBukUV63XhqPfqpV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/34beaad5faf39b2deaec8da702b37ba0805bb35cdc3c3b7d120c1401dd3d61a527b99f45fbd979e0e73c706e842eb5233eab7afd3404218a2696d568ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/34beaad5faf39b2deaec8da702b37ba0805bb35cdc3c3b7d120c1401dd3d61a527b99f45fbd979e0e73c706e842eb5233eab7afd3404218a2696d568ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/34beaad5faf39b2deaec8da702b37ba0805bb35cdc3c3b7d120c1401dd3d61a527b99f45fbd979e0e73c706e842eb5233eab7afd3404218a2696d568ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Jidenna — Classic Man - Remix",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/clemmeraddysonn"
+        },
+        "href" : "https://api.spotify.com/v1/users/clemmeraddysonn",
+        "id" : "clemmeraddysonn",
+        "type" : "user",
+        "uri" : "spotify:user:clemmeraddysonn"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "LI8s2WZHb7dz5LFplG1ccIed6CW4EA1rhIuarJXOwAXxo9K92PIfUCQjh3o0S7nU",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/clemmeraddysonn/playlists/6WlXoTYBukUV63XhqPfqpV/tracks",
+        "total" : 23
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:clemmeraddysonn:playlist:6WlXoTYBukUV63XhqPfqpV"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/duhawk95/playlist/0aEGBS2AGnHtJKzNVqyMs9"
+      },
+      "href" : "https://api.spotify.com/v1/users/duhawk95/playlists/0aEGBS2AGnHtJKzNVqyMs9",
+      "id" : "0aEGBS2AGnHtJKzNVqyMs9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/062ea375571b9399055e6c23c30b1ba69d57d650534eaab939f9ad6de709fbc7fa534c2daaa4f7ac9f18c4d28fe6636efbf88fb0bac13b91c97eaabeed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/062ea375571b9399055e6c23c30b1ba69d57d650534eaab939f9ad6de709fbc7fa534c2daaa4f7ac9f18c4d28fe6636efbf88fb0bac13b91c97eaabeed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/062ea375571b9399055e6c23c30b1ba69d57d650534eaab939f9ad6de709fbc7fa534c2daaa4f7ac9f18c4d28fe6636efbf88fb0bac13b91c97eaabeed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "classic man remix list",
+      "owner" : {
+        "display_name" : "Grant Smith",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/duhawk95"
+        },
+        "href" : "https://api.spotify.com/v1/users/duhawk95",
+        "id" : "duhawk95",
+        "type" : "user",
+        "uri" : "spotify:user:duhawk95"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "QLolPaXGWOPelAgA7p1ffWIWwkkERNpBul1j6Y/uxtjSTZ+SryK/9FG/Q+DF1U1n",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/duhawk95/playlists/0aEGBS2AGnHtJKzNVqyMs9/tracks",
+        "total" : 28
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:duhawk95:playlist:0aEGBS2AGnHtJKzNVqyMs9"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/joeyjoejoejoeyjoe/playlist/3ziVvTyYBtlYKrtrg20PDv"
+      },
+      "href" : "https://api.spotify.com/v1/users/joeyjoejoejoeyjoe/playlists/3ziVvTyYBtlYKrtrg20PDv",
+      "id" : "3ziVvTyYBtlYKrtrg20PDv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/299539f9f2929156a52662aae33f49dd085b7d3748db98f1b75ff734961c8096d7b5fee83884b704ec33e36327add036f4da965fe6e7463153f158f3ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/299539f9f2929156a52662aae33f49dd085b7d3748db98f1b75ff734961c8096d7b5fee83884b704ec33e36327add036f4da965fe6e7463153f158f3ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/299539f9f2929156a52662aae33f49dd085b7d3748db98f1b75ff734961c8096d7b5fee83884b704ec33e36327add036f4da965fe6e7463153f158f3ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Classic Man - Remix – Jidenna",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/joeyjoejoejoeyjoe"
+        },
+        "href" : "https://api.spotify.com/v1/users/joeyjoejoejoeyjoe",
+        "id" : "joeyjoejoejoeyjoe",
+        "type" : "user",
+        "uri" : "spotify:user:joeyjoejoejoeyjoe"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "pNHHUSnOlfpyiiRWS19Cl0A28NnNMDOkm8QFrQ0wp18sn8mP8cawvjYSWwleeeuz",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/joeyjoejoejoeyjoe/playlists/3ziVvTyYBtlYKrtrg20PDv/tracks",
+        "total" : 6
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:joeyjoejoejoeyjoe:playlist:3ziVvTyYBtlYKrtrg20PDv"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/.lislusen./playlist/50XbzDzq9oMbH1rCO5MPR9"
+      },
+      "href" : "https://api.spotify.com/v1/users/.lislusen./playlists/50XbzDzq9oMbH1rCO5MPR9",
+      "id" : "50XbzDzq9oMbH1rCO5MPR9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/0ee9e2044220e7c42da9157b79591e23b6d8ad8f1700de1cb3af84af1bb5cb5af29d24174daf70f8d329671363eb7826b5871eef978841c7db97c757ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/0ee9e2044220e7c42da9157b79591e23b6d8ad8f1700de1cb3af84af1bb5cb5af29d24174daf70f8d329671363eb7826b5871eef978841c7db97c757ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/0ee9e2044220e7c42da9157b79591e23b6d8ad8f1700de1cb3af84af1bb5cb5af29d24174daf70f8d329671363eb7826b5871eef978841c7db97c757ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Classic Man - Remix – Jidenna",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/.lislusen."
+        },
+        "href" : "https://api.spotify.com/v1/users/.lislusen.",
+        "id" : ".lislusen.",
+        "type" : "user",
+        "uri" : "spotify:user:.lislusen."
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "0VTwlkWqrGruiu3G3VwuL+65rmFZ4O9RWv8Pj58grDsMePQeXTPHeVw3iMFc8nhN",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/.lislusen./playlists/50XbzDzq9oMbH1rCO5MPR9/tracks",
+        "total" : 12
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:.lislusen.:playlist:50XbzDzq9oMbH1rCO5MPR9"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/22pcb6oktvooumntuug4jfi4a/playlist/3MPPrpFU4gtp6PfJ21ZNVW"
+      },
+      "href" : "https://api.spotify.com/v1/users/22pcb6oktvooumntuug4jfi4a/playlists/3MPPrpFU4gtp6PfJ21ZNVW",
+      "id" : "3MPPrpFU4gtp6PfJ21ZNVW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      } ],
+      "name" : "Jidenna — Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Úrsula Balistieri Michetti",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/22pcb6oktvooumntuug4jfi4a"
+        },
+        "href" : "https://api.spotify.com/v1/users/22pcb6oktvooumntuug4jfi4a",
+        "id" : "22pcb6oktvooumntuug4jfi4a",
+        "type" : "user",
+        "uri" : "spotify:user:22pcb6oktvooumntuug4jfi4a"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "5zzTbHMNOG4OqFbMlC6jVixAxIYYjsUrnSLpvYf5xDrPGTq0A38lkU/AVNEk8Pjp",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/22pcb6oktvooumntuug4jfi4a/playlists/3MPPrpFU4gtp6PfJ21ZNVW/tracks",
+        "total" : 2
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:22pcb6oktvooumntuug4jfi4a:playlist:3MPPrpFU4gtp6PfJ21ZNVW"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/12185990516/playlist/4B00isLEknHgactm3YHWke"
+      },
+      "href" : "https://api.spotify.com/v1/users/12185990516/playlists/4B00isLEknHgactm3YHWke",
+      "id" : "4B00isLEknHgactm3YHWke",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/60199518ebdc9a7c9c51a45e9d312dde7f5dfb17b4ee644acbdcbfd9f6c75f8e098e32cd8e0bc5b2b9c66e564827b896ae108fc5c6229ef6c48c59e6ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/60199518ebdc9a7c9c51a45e9d312dde7f5dfb17b4ee644acbdcbfd9f6c75f8e098e32cd8e0bc5b2b9c66e564827b896ae108fc5c6229ef6c48c59e6ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/60199518ebdc9a7c9c51a45e9d312dde7f5dfb17b4ee644acbdcbfd9f6c75f8e098e32cd8e0bc5b2b9c66e564827b896ae108fc5c6229ef6c48c59e6ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Jidenna — Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Juan Victoria Bautista",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/12185990516"
+        },
+        "href" : "https://api.spotify.com/v1/users/12185990516",
+        "id" : "12185990516",
+        "type" : "user",
+        "uri" : "spotify:user:12185990516"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "nzImdbsNh+ewz5rbPrSQE8qHVFyoB0tIfH2yXHWbAp3G5kfnSqX2/GqDULGWlZjA",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/12185990516/playlists/4B00isLEknHgactm3YHWke/tracks",
+        "total" : 73
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:12185990516:playlist:4B00isLEknHgactm3YHWke"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/knickfan1970/playlist/3jaEYRLbevvktQnHguyISI"
+      },
+      "href" : "https://api.spotify.com/v1/users/knickfan1970/playlists/3jaEYRLbevvktQnHguyISI",
+      "id" : "3jaEYRLbevvktQnHguyISI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/934be701017686084d887f25dcca60497ea88247acb4710b6372d3652f3fa4454a3fbb2db61084aac2d14d499f166b1265413127daf27790630b620bed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/934be701017686084d887f25dcca60497ea88247acb4710b6372d3652f3fa4454a3fbb2db61084aac2d14d499f166b1265413127daf27790630b620bed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/934be701017686084d887f25dcca60497ea88247acb4710b6372d3652f3fa4454a3fbb2db61084aac2d14d499f166b1265413127daf27790630b620bed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Jidenna – Classic Man (Remix)",
+      "owner" : {
+        "display_name" : "Maxwell Haynes",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/knickfan1970"
+        },
+        "href" : "https://api.spotify.com/v1/users/knickfan1970",
+        "id" : "knickfan1970",
+        "type" : "user",
+        "uri" : "spotify:user:knickfan1970"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "xAzyIxYZtB/t6wB0ArIzj2/NDjA66Ki8Pi8lnO3lp5nDIPtcSOqPNPF9d17vYZou",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/knickfan1970/playlists/3jaEYRLbevvktQnHguyISI/tracks",
+        "total" : 944
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:knickfan1970:playlist:3jaEYRLbevvktQnHguyISI"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/22czx7sy6bny5jkc3q43f5ndi/playlist/6H7Rdcdm5WaH8HP9uqJZ5x"
+      },
+      "href" : "https://api.spotify.com/v1/users/22czx7sy6bny5jkc3q43f5ndi/playlists/6H7Rdcdm5WaH8HP9uqJZ5x",
+      "id" : "6H7Rdcdm5WaH8HP9uqJZ5x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/062ea375571b9399055e6c23c30b1ba69d57d6505d5f5898eb8be59aa95285727bf7180907bbfb83ed7151bf7b1ade45fb9afe2f3be7d8781cb70071fef625421d981575c2c77b99a0a42c035182e444",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/062ea375571b9399055e6c23c30b1ba69d57d6505d5f5898eb8be59aa95285727bf7180907bbfb83ed7151bf7b1ade45fb9afe2f3be7d8781cb70071fef625421d981575c2c77b99a0a42c035182e444",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/062ea375571b9399055e6c23c30b1ba69d57d6505d5f5898eb8be59aa95285727bf7180907bbfb83ed7151bf7b1ade45fb9afe2f3be7d8781cb70071fef625421d981575c2c77b99a0a42c035182e444",
+        "width" : 60
+      } ],
+      "name" : "Kendrick Lamar, Jidenna — Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Andy Hanson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/22czx7sy6bny5jkc3q43f5ndi"
+        },
+        "href" : "https://api.spotify.com/v1/users/22czx7sy6bny5jkc3q43f5ndi",
+        "id" : "22czx7sy6bny5jkc3q43f5ndi",
+        "type" : "user",
+        "uri" : "spotify:user:22czx7sy6bny5jkc3q43f5ndi"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "I6qaH1gio7mtyu/Y2N2q6QuBb1NgZrvFYt2fr9aN+ElGOpLcknvIN/PxNmmNbt1F",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/22czx7sy6bny5jkc3q43f5ndi/playlists/6H7Rdcdm5WaH8HP9uqJZ5x/tracks",
+        "total" : 52
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:22czx7sy6bny5jkc3q43f5ndi:playlist:6H7Rdcdm5WaH8HP9uqJZ5x"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/theking7879/playlist/5NVAYHfzl1HaUZHIIeQdXO"
+      },
+      "href" : "https://api.spotify.com/v1/users/theking7879/playlists/5NVAYHfzl1HaUZHIIeQdXO",
+      "id" : "5NVAYHfzl1HaUZHIIeQdXO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/7db4cad12106d31ac257cd27c494cdf0f4a57b278b58b6c7af296ef09ce7aba4ed9b8d52e1e4fb30a67ffa99f1b530d868f381c2fbcd3989f89a04f5ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/7db4cad12106d31ac257cd27c494cdf0f4a57b278b58b6c7af296ef09ce7aba4ed9b8d52e1e4fb30a67ffa99f1b530d868f381c2fbcd3989f89a04f5ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/7db4cad12106d31ac257cd27c494cdf0f4a57b278b58b6c7af296ef09ce7aba4ed9b8d52e1e4fb30a67ffa99f1b530d868f381c2fbcd3989f89a04f5ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "King divine Kendrick Lamar, Jidenna — Classic Man - Remix",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/theking7879"
+        },
+        "href" : "https://api.spotify.com/v1/users/theking7879",
+        "id" : "theking7879",
+        "type" : "user",
+        "uri" : "spotify:user:theking7879"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "xFxZZhCd5ilH7K3srsmInD+mBUFy4I7W0W3jnNyh8Wo6fto3iTlPqvC9aCDJJwtM",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/theking7879/playlists/5NVAYHfzl1HaUZHIIeQdXO/tracks",
+        "total" : 390
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:theking7879:playlist:5NVAYHfzl1HaUZHIIeQdXO"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/mixeddeva/playlist/7HlIO9VusghVUHOVYB5bSx"
+      },
+      "href" : "https://api.spotify.com/v1/users/mixeddeva/playlists/7HlIO9VusghVUHOVYB5bSx",
+      "id" : "7HlIO9VusghVUHOVYB5bSx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/026f7bbe8392e00677859f37271f84b7872e05c3bf60b560bc5dd85ed7412508bdb75f6f27731c73de693f63e4f4f2796ff448ccd73d4b4831faf30bed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/026f7bbe8392e00677859f37271f84b7872e05c3bf60b560bc5dd85ed7412508bdb75f6f27731c73de693f63e4f4f2796ff448ccd73d4b4831faf30bed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/026f7bbe8392e00677859f37271f84b7872e05c3bf60b560bc5dd85ed7412508bdb75f6f27731c73de693f63e4f4f2796ff448ccd73d4b4831faf30bed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 60
+      } ],
+      "name" : "Jidenna, Kendrick Lamar — Classic Man - Remix",
+      "owner" : {
+        "display_name" : "Shaunta Arrenondo-feaster",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/mixeddeva"
+        },
+        "href" : "https://api.spotify.com/v1/users/mixeddeva",
+        "id" : "mixeddeva",
+        "type" : "user",
+        "uri" : "spotify:user:mixeddeva"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "YibdxNsM8FBPq5dNrFtETgvNEaOUlLIo19pJMFNBsXXFzTrnNzkSKTweh82fWD26",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/mixeddeva/playlists/7HlIO9VusghVUHOVYB5bSx/tracks",
+        "total" : 382
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:mixeddeva:playlist:7HlIO9VusghVUHOVYB5bSx"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/norobotswereharmed/playlist/2SEaAYVqesr3TO0Sm0IiLV"
+      },
+      "href" : "https://api.spotify.com/v1/users/norobotswereharmed/playlists/2SEaAYVqesr3TO0Sm0IiLV",
+      "id" : "2SEaAYVqesr3TO0Sm0IiLV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/1ca5ed50d323f9291627f08fa8422110ecde05a44c1fb99e7bbf34da4459fcad9ab99dab128be6c583ecff26f336255e9d970e04fe82d6a2a85ca1c486f9c3fd6ab90de995e483bec5e1a921c6dc4e59",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/1ca5ed50d323f9291627f08fa8422110ecde05a44c1fb99e7bbf34da4459fcad9ab99dab128be6c583ecff26f336255e9d970e04fe82d6a2a85ca1c486f9c3fd6ab90de995e483bec5e1a921c6dc4e59",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/1ca5ed50d323f9291627f08fa8422110ecde05a44c1fb99e7bbf34da4459fcad9ab99dab128be6c583ecff26f336255e9d970e04fe82d6a2a85ca1c486f9c3fd6ab90de995e483bec5e1a921c6dc4e59",
+        "width" : 60
+      } ],
+      "name" : "David Bowie - We can be Heroes!",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/norobotswereharmed"
+        },
+        "href" : "https://api.spotify.com/v1/users/norobotswereharmed",
+        "id" : "norobotswereharmed",
+        "type" : "user",
+        "uri" : "spotify:user:norobotswereharmed"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "ATnBUzPh33pXR7tIoRdYgQbHppSq1FebGYIa+luoaQIqJt0WxiHews92R6wE0kz7",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/norobotswereharmed/playlists/2SEaAYVqesr3TO0Sm0IiLV/tracks",
+        "total" : 21
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:norobotswereharmed:playlist:2SEaAYVqesr3TO0Sm0IiLV"
+    } ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 22
+  }
+}

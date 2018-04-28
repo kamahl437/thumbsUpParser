@@ -1,0 +1,339 @@
+​{
+  "best_match" : {
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 221897
+      },
+      "genres" : [ "indie r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+      "id" : "4TsHKU8l8Wq7n7OPVikirn",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/c13298e2dce4bec90b2059a3f71544e1398b2bbc",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/0d3cf0335744ecb4d18aa2bebc0678b7caa7a128",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/8c80f606f9065f4f66e5e94f86f3ea93986e984d",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/7f108630edc2cc1f8199ee405007a85adfebe9b0",
+        "width" : 64
+      } ],
+      "name" : "Jidenna",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+    } ]
+  },
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/search?query=jidenn*&type=album&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs",
+        "id" : "6ueGR6SWhUJfvEhqkvMsVs",
+        "name" : "Janelle Monáe",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5rzxGeVyCV74SvV5hjLRAU",
+      "id" : "5rzxGeVyCV74SvV5hjLRAU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/57b926562ee4515526a8b15f475bd4eb9eb691b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b904ebc2e5517c74ad73a66f1d4bf1bb25d677bc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/9895373932dee316a94e97f25ff51b02f04e9ffb",
+        "width" : 64
+      } ],
+      "name" : "Yoga",
+      "release_date" : "2015-03-31",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:5rzxGeVyCV74SvV5hjLRAU"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1BQhMEiv7bLPI7wLAdHsn9",
+      "id" : "1BQhMEiv7bLPI7wLAdHsn9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a8b0332f2d4b373e370a2aef3f17d0aa899e07b0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/42d19f1c4eaf275668d3d73f3c8439c0838eec75",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ed983f4dc281603446d47b7055bfb7fdc54cf227",
+        "width" : 64
+      } ],
+      "name" : "Boomerang",
+      "release_date" : "2017-11-10",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:1BQhMEiv7bLPI7wLAdHsn9"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mTxdHN68ChHeURs6cl0OC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mTxdHN68ChHeURs6cl0OC",
+      "id" : "6mTxdHN68ChHeURs6cl0OC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/3ebd8eb3288006972d77141cae3e817746e39da1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/c3135bd721327fa47310b871ff2089cc6596b67c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/09b7cadb85953213ccdf4e95a8219e704e21570c",
+        "width" : 64
+      } ],
+      "name" : "The Chief",
+      "release_date" : "2017-02-17",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:6mTxdHN68ChHeURs6cl0OC"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6WYHzLqNy9g3zNeqs9IwAA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6WYHzLqNy9g3zNeqs9IwAA",
+      "id" : "6WYHzLqNy9g3zNeqs9IwAA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d5725eb974d195decc6f92a9afae71741e59c7d2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/3695415358073759697469820a9e80358c94f4fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f44863aef8338001509fb2a077ae80d9283f427e",
+        "width" : 64
+      } ],
+      "name" : "Classic Man",
+      "release_date" : "2015-02-03",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:6WYHzLqNy9g3zNeqs9IwAA"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0b2j47HuTRqlzvROQktVtg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0b2j47HuTRqlzvROQktVtg",
+      "id" : "0b2j47HuTRqlzvROQktVtg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ed7151bf7b1ade45fb9afe2f3be7d8781cb70071",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d8ee9771a5d00a8158df122b781ddeab5ce966eb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3705f6209abc48502aa02ca568aa68925b0f8cec",
+        "width" : 64
+      } ],
+      "name" : "Classic Man (Remix)",
+      "release_date" : "2015-06-22",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:0b2j47HuTRqlzvROQktVtg"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0G95utldA2p4celne6Gbq9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0G95utldA2p4celne6Gbq9",
+      "id" : "0G95utldA2p4celne6Gbq9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d5725eb974d195decc6f92a9afae71741e59c7d2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/3695415358073759697469820a9e80358c94f4fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f44863aef8338001509fb2a077ae80d9283f427e",
+        "width" : 64
+      } ],
+      "name" : "Classic Man",
+      "release_date" : "2015-02-03",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:0G95utldA2p4celne6Gbq9"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5DBsERTpvdP0KfhG25aHif"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5DBsERTpvdP0KfhG25aHif",
+      "id" : "5DBsERTpvdP0KfhG25aHif",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/21c341941198f60045554c05d7eb359748f5950b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f698c9cad02e70c9d1f5ecf6499849eddf930c79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/47c233c43ea5fa0acc0e6dc5fdfd3fdf234916a3",
+        "width" : 64
+      } ],
+      "name" : "The Let Out",
+      "release_date" : "2017-02-03",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:5DBsERTpvdP0KfhG25aHif"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4vWMO81ItqgWqqAYtkvD0Y"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4vWMO81ItqgWqqAYtkvD0Y",
+      "id" : "4vWMO81ItqgWqqAYtkvD0Y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/469ca06df7bae66f795181d2f4ab4227f06a1057",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/97ed91884c737cde08cd6039afb878d1e098f308",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4ffd757d9bbe7eeb30d23480b5816102226f1beb",
+        "width" : 64
+      } ],
+      "name" : "Knickers",
+      "release_date" : "2015-12-21",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:4vWMO81ItqgWqqAYtkvD0Y"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TsHKU8l8Wq7n7OPVikirn",
+        "id" : "4TsHKU8l8Wq7n7OPVikirn",
+        "name" : "Jidenna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TsHKU8l8Wq7n7OPVikirn"
+      } ],
