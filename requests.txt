@@ -1,0 +1,16 @@
+put request adds it
+https://api.spotify.com/v1/me/tracks?ids=6I7sR26Tu5ReDIu04Zndqn
+
+
+headers:
+accept: application/json
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+authorization: Bearer BQD1le3YisR263MZrvv5JhbTuz6Qq1JsWc_lTj8CxtIVfR-MxvFpb2qza0MICBwJdsMaA7tS6cwcazGTNVwjbh2jaqp3vqj1LpebJLe30BmBfAGYu99HKo99k1RwXUvBzGa3XJqU7N38OxWujwKyxXvYFt0LkRRM6PeqoUgWyeyB8zwLFAqNJm3PfjptoeZEMPzK3RdDtFYlmq_s4c9DF4EDe5oc83RA9iOROZGQDTRaCzWw6_DcsilVLz1ySRT3R5SYTRlmd94HHbqwbdM78D2A89QeZSLLbMs
+content-length: 0
+origin: https://open.spotify.com
+referer: https://open.spotify.com/search/results/I%20want%20you%20common
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+get request. same headers
+https://api.spotify.com/v1/search?type=album%2Cartist%2Cplaylist%2Ctrack&q=Classic Man jidenna*&decorate_restrictions=true&best_match=true&limit=50&anonymous=false&market=from_token

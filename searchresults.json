@@ -1,0 +1,621 @@
+{
+  "best_match" : {
+    "items" : [ {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/124848884/playlist/6I7sR26Tu5ReDIu04Zndqn"
+      },
+      "href" : "https://api.spotify.com/v1/users/124848884/playlists/6I7sR26Tu5ReDIu04Zndqn",
+      "id" : "6I7sR26Tu5ReDIu04Zndqn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/0744d98a60457bd36fcfc48324b2049a76f732bf2c8ed2876699b7e5951a307582c1ba3976d47aad443372cd2c6d4245833fb46ac1c5dabca00c78a970566b4afdf440e4f1420723e34639eb140f31c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/0744d98a60457bd36fcfc48324b2049a76f732bf2c8ed2876699b7e5951a307582c1ba3976d47aad443372cd2c6d4245833fb46ac1c5dabca00c78a970566b4afdf440e4f1420723e34639eb140f31c9",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/0744d98a60457bd36fcfc48324b2049a76f732bf2c8ed2876699b7e5951a307582c1ba3976d47aad443372cd2c6d4245833fb46ac1c5dabca00c78a970566b4afdf440e4f1420723e34639eb140f31c9",
+        "width" : 60
+      } ],
+      "name" : "I Want You – Common",
+      "owner" : {
+        "display_name" : "Tamika Wright",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/124848884"
+        },
+        "href" : "https://api.spotify.com/v1/users/124848884",
+        "id" : "124848884",
+        "type" : "user",
+        "uri" : "spotify:user:124848884"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "P09C8xnM9PsaXeoVZ2Q3brlVjDxnbtRd2TgxC/Zdl/wRAkT9ambbjWH4EFmuj1Uq",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/124848884/playlists/6I7sR26Tu5ReDIu04Zndqn/tracks",
+        "total" : 8
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:124848884:playlist:6I7sR26Tu5ReDIu04Zndqn"
+    } ]
+  },
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+want+you+common*&type=album&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 0
+  },
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+want+you+common*&type=artist&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 0
+  },
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+want+you+common*&type=track&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+          "id" : "2GHclqNVjqGuiE5mA7BEoc",
+          "name" : "Common",
+          "type" : "artist",
+          "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0XFFBEzvJ7Zit24MY5oVV3",
+        "id" : "0XFFBEzvJ7Zit24MY5oVV3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/0744d98a60457bd36fcfc48324b2049a76f732bf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/a6e8da2905589f967ee781be665dd6b2417d7fa9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4071b1c0adaf41a2d94e8f711189a12e0faa50f3",
+          "width" : 64
+        } ],
+        "name" : "Finding Forever",
+        "release_date" : "2007-01-01",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:0XFFBEzvJ7Zit24MY5oVV3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id" : "2GHclqNVjqGuiE5mA7BEoc",
+        "name" : "Common",
+        "type" : "artist",
+        "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 270426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM70728996"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4c9M2f3dd2G0y35ZYK31mk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4c9M2f3dd2G0y35ZYK31mk",
+      "id" : "4c9M2f3dd2G0y35ZYK31mk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Want You",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/edfeb2118a859f5fad2a6b4e3b618846263f09ea?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:4c9M2f3dd2G0y35ZYK31mk"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+          "id" : "2GHclqNVjqGuiE5mA7BEoc",
+          "name" : "Common",
+          "type" : "artist",
+          "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2IGKisSgNle7264UoY57vO",
+        "id" : "2IGKisSgNle7264UoY57vO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/adf648bb6ef51d7ecc24aa0cc9e61a418bed04fc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/16c4a61e1e84d369681d9f6f72cf44754c69f7b1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/7692873a82f8f633fbed14e975558e7da39af66b",
+          "width" : 64
+        } ],
+        "name" : "Go! Common Classics",
+        "release_date" : "2010-05-11",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:2IGKisSgNle7264UoY57vO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id" : "2GHclqNVjqGuiE5mA7BEoc",
+        "name" : "Common",
+        "type" : "artist",
+        "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 270746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM70728996"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6NdwJLOElsMIRFeWSgqh1g"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6NdwJLOElsMIRFeWSgqh1g",
+      "id" : "6NdwJLOElsMIRFeWSgqh1g",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Want You",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/981e18bf94d73cde28314843af5a923f790c5d8c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6NdwJLOElsMIRFeWSgqh1g"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+          "id" : "2GHclqNVjqGuiE5mA7BEoc",
+          "name" : "Common",
+          "type" : "artist",
+          "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/419WmeDJL73aoLgkECBRBi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/419WmeDJL73aoLgkECBRBi",
+        "id" : "419WmeDJL73aoLgkECBRBi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/0744d98a60457bd36fcfc48324b2049a76f732bf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/a6e8da2905589f967ee781be665dd6b2417d7fa9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4071b1c0adaf41a2d94e8f711189a12e0faa50f3",
+          "width" : 64
+        } ],
+        "name" : "Finding Forever",
+        "release_date" : "2007-01-01",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:419WmeDJL73aoLgkECBRBi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id" : "2GHclqNVjqGuiE5mA7BEoc",
+        "name" : "Common",
+        "type" : "artist",
+        "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 270426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM70728996"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Z2SFbiNPxR7KAMntC4baK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Z2SFbiNPxR7KAMntC4baK",
+      "id" : "3Z2SFbiNPxR7KAMntC4baK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Want You",
+      "popularity" : 16,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5df9041de87f5b10d117f4ee7118771905668e81?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3Z2SFbiNPxR7KAMntC4baK"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+          "id" : "2GHclqNVjqGuiE5mA7BEoc",
+          "name" : "Common",
+          "type" : "artist",
+          "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4aGdRsA2lCtgwVOK2XYwOO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4aGdRsA2lCtgwVOK2XYwOO",
+        "id" : "4aGdRsA2lCtgwVOK2XYwOO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/9458feac326378151b062627d8b4db85a0f792c2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/cb7014ac1d08939e04c37fbcab2fbc9344a5e0b2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/b41f4a0b33c9605a53d6c6df53c8a07b85c8636a",
+          "width" : 64
+        } ],
+        "name" : "Go! Common Classics",
+        "release_date" : "2010-05-11",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:4aGdRsA2lCtgwVOK2XYwOO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+        "id" : "2GHclqNVjqGuiE5mA7BEoc",
+        "name" : "Common",
+        "type" : "artist",
+        "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 270773,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM70728996"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4pRpbhs8jRWwbnYrUKFk6K"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4pRpbhs8jRWwbnYrUKFk6K",
+      "id" : "4pRpbhs8jRWwbnYrUKFk6K",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Want You",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c9665ac426cdafb34b7fd1001c24d11dd00e2844?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:4pRpbhs8jRWwbnYrUKFk6K"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2bS8eBwz9QVqtcPoQ3Ii6B"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2bS8eBwz9QVqtcPoQ3Ii6B",
+          "id" : "2bS8eBwz9QVqtcPoQ3Ii6B",
+          "name" : "Common Destiny",
+          "type" : "artist",
+          "uri" : "spotify:artist:2bS8eBwz9QVqtcPoQ3Ii6B"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7DK2WcK0d3KdW5nsTUvwOU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7DK2WcK0d3KdW5nsTUvwOU",
+        "id" : "7DK2WcK0d3KdW5nsTUvwOU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/5a722fdcd864790ae6bf1dd7be4d6aaaa976c187",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e35bf80291dee0b00eac361d5e4712724bd8c4ec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3c055b9275b70a762085044d7e6d6b96b2f67d43",
+          "width" : 64
+        } ],
+        "name" : "He Believes In You",
+        "release_date" : "2005-01-18",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:7DK2WcK0d3KdW5nsTUvwOU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2bS8eBwz9QVqtcPoQ3Ii6B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2bS8eBwz9QVqtcPoQ3Ii6B",
+        "id" : "2bS8eBwz9QVqtcPoQ3Ii6B",
+        "name" : "Common Destiny",
+        "type" : "artist",
+        "uri" : "spotify:artist:2bS8eBwz9QVqtcPoQ3Ii6B"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 168173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm20531909"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2cHzcfOtMfeFTkfSwIeFpA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2cHzcfOtMfeFTkfSwIeFpA",
+      "id" : "2cHzcfOtMfeFTkfSwIeFpA",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Want To Know You More",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ffb7092586812c1c028fe693fea64bac777d85f7?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:2cHzcfOtMfeFTkfSwIeFpA"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/66WO37ZCBEHkK5MPfCTWLT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/66WO37ZCBEHkK5MPfCTWLT",
+          "id" : "66WO37ZCBEHkK5MPfCTWLT",
+          "name" : "The Buckeye Politicians",
+          "type" : "artist",
+          "uri" : "spotify:artist:66WO37ZCBEHkK5MPfCTWLT"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4p28GffAefvViv9OvPhrVU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4p28GffAefvViv9OvPhrVU",
+        "id" : "4p28GffAefvViv9OvPhrVU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8449c82ad6f2e6611ad45bbe945e22a972718d98",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/2ef16c57a11b20fb88fc27971e9063d64913a69a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/7ea29af6de48198e8f67b8b74477fe357dbdc5e3",
+          "width" : 64
+        } ],
+        "name" : "Hope for the Common Man",
+        "release_date" : "2013-12-02",
+        "release_date_precision" : "day",
+        "type" : "album",
+        "uri" : "spotify:album:4p28GffAefvViv9OvPhrVU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/66WO37ZCBEHkK5MPfCTWLT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/66WO37ZCBEHkK5MPfCTWLT",
+        "id" : "66WO37ZCBEHkK5MPfCTWLT",
+        "name" : "The Buckeye Politicians",
+        "type" : "artist",
+        "uri" : "spotify:artist:66WO37ZCBEHkK5MPfCTWLT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 330000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p1320148"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4omTsWZvbqttKnyXlYdVEb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4omTsWZvbqttKnyXlYdVEb",
+      "id" : "4omTsWZvbqttKnyXlYdVEb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Want To Dance With You",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/784fe90b11f686a048c71fd1237e3dddf4cc46ff?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:4omTsWZvbqttKnyXlYdVEb"
+    } ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  },
+  "playlists" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+want+you+common*&type=playlist&market=from_token&decorate_restrictions=true&offset=0&limit=50",
+    "items" : [ {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/124848884/playlist/6I7sR26Tu5ReDIu04Zndqn"
+      },
+      "href" : "https://api.spotify.com/v1/users/124848884/playlists/6I7sR26Tu5ReDIu04Zndqn",
+      "id" : "6I7sR26Tu5ReDIu04Zndqn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/0744d98a60457bd36fcfc48324b2049a76f732bf2c8ed2876699b7e5951a307582c1ba3976d47aad443372cd2c6d4245833fb46ac1c5dabca00c78a970566b4afdf440e4f1420723e34639eb140f31c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/0744d98a60457bd36fcfc48324b2049a76f732bf2c8ed2876699b7e5951a307582c1ba3976d47aad443372cd2c6d4245833fb46ac1c5dabca00c78a970566b4afdf440e4f1420723e34639eb140f31c9",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/0744d98a60457bd36fcfc48324b2049a76f732bf2c8ed2876699b7e5951a307582c1ba3976d47aad443372cd2c6d4245833fb46ac1c5dabca00c78a970566b4afdf440e4f1420723e34639eb140f31c9",
+        "width" : 60
+      } ],
+      "name" : "I Want You – Common",
+      "owner" : {
+        "display_name" : "Tamika Wright",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/124848884"
+        },
+        "href" : "https://api.spotify.com/v1/users/124848884",
+        "id" : "124848884",
+        "type" : "user",
+        "uri" : "spotify:user:124848884"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "P09C8xnM9PsaXeoVZ2Q3brlVjDxnbtRd2TgxC/Zdl/wRAkT9ambbjWH4EFmuj1Uq",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/124848884/playlists/6I7sR26Tu5ReDIu04Zndqn/tracks",
+        "total" : 8
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:124848884:playlist:6I7sR26Tu5ReDIu04Zndqn"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/lulukatianaspotify/playlist/5GSDluRt4AKDpwuRZ05gbj"
+      },
+      "href" : "https://api.spotify.com/v1/users/lulukatianaspotify/playlists/5GSDluRt4AKDpwuRZ05gbj",
+      "id" : "5GSDluRt4AKDpwuRZ05gbj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/0744d98a60457bd36fcfc48324b2049a76f732bf",
+        "width" : 640
+      } ],
+      "name" : "Common — I Want You",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/lulukatianaspotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/lulukatianaspotify",
+        "id" : "lulukatianaspotify",
+        "type" : "user",
+        "uri" : "spotify:user:lulukatianaspotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "YQb6ABw9EGlbjMibMyDDe1O9CpkdpYM8JaCCRPcmoQsQkd8ZhPO9qRtKmim33OxW",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/lulukatianaspotify/playlists/5GSDluRt4AKDpwuRZ05gbj/tracks",
+        "total" : 13
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:lulukatianaspotify:playlist:5GSDluRt4AKDpwuRZ05gbj"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/countryro1/playlist/3voC5iYfrUL72ZKEq6J8xa"
+      },
+      "href" : "https://api.spotify.com/v1/users/countryro1/playlists/3voC5iYfrUL72ZKEq6J8xa",
+      "id" : "3voC5iYfrUL72ZKEq6J8xa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/0744d98a60457bd36fcfc48324b2049a76f732bf160207d9a7179b01a07d1206c40b2ffb3582d7134bfdc273ca8f1acc82a3a6bc6923a91b1abd47be8ad6970911d1d8b032860e05e71332b3a9f70113",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/0744d98a60457bd36fcfc48324b2049a76f732bf160207d9a7179b01a07d1206c40b2ffb3582d7134bfdc273ca8f1acc82a3a6bc6923a91b1abd47be8ad6970911d1d8b032860e05e71332b3a9f70113",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/0744d98a60457bd36fcfc48324b2049a76f732bf160207d9a7179b01a07d1206c40b2ffb3582d7134bfdc273ca8f1acc82a3a6bc6923a91b1abd47be8ad6970911d1d8b032860e05e71332b3a9f70113",
+        "width" : 60
+      } ],
+      "name" : "Common — I Want You",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/countryro1"
+        },
+        "href" : "https://api.spotify.com/v1/users/countryro1",
+        "id" : "countryro1",
+        "type" : "user",
+        "uri" : "spotify:user:countryro1"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "lAe8ZWdTaJopnXWZmZH3gJhuv6rKeHTzSBH1hP9r7NqLh5uh3IH4M062TIGkGdON",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/countryro1/playlists/3voC5iYfrUL72ZKEq6J8xa/tracks",
+        "total" : 16
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:countryro1:playlist:3voC5iYfrUL72ZKEq6J8xa"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/tonyallen31/playlist/6nJthiRJhiV41v3W0gtdEu"
+      },
+      "href" : "https://api.spotify.com/v1/users/tonyallen31/playlists/6nJthiRJhiV41v3W0gtdEu",
+      "id" : "6nJthiRJhiV41v3W0gtdEu",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/68c5aa977e982ba380aa42024e25de1eaf5459e4",
+        "width" : null
+      } ],
+      "name" : "I'm The DJ",
+      "owner" : {
+        "display_name" : null,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/tonyallen31"
+        },
+        "href" : "https://api.spotify.com/v1/users/tonyallen31",
+        "id" : "tonyallen31",
+        "type" : "user",
+        "uri" : "spotify:user:tonyallen31"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "a025DmSdEZbEnF72tQUxJa81IyA9/R1mTMyIoHQZVTJo/ECb1rSDrkDcLq0wQIYL",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/tonyallen31/playlists/6nJthiRJhiV41v3W0gtdEu/tracks",
+        "total" : 19
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:tonyallen31:playlist:6nJthiRJhiV41v3W0gtdEu"
+    } ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}
